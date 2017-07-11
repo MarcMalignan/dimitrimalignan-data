@@ -7,21 +7,21 @@
     "link": "http://paris.lesnuitsdupiano.fr/"
   },
   {
-    "type": "FESTIVALCONCERT",
+    "type": "FESTIVAL_CONCERT",
     "title": "Nohant-Chopin",
     "date": "2017-07-22T18:00:00+02:00",
     "location": "Parc du domaine de George Sand, Nohant-Vic (Indre)",
     "link": "https://festivalnohant.com/"
   },
   {
-    "type": "FESTIVALRECITAL",
+    "type": "FESTIVAL_RECITAL",
     "title": "Les Nuits Musicales du Rouergue",
     "date": "2017-07-28T21:00:00+02:00",
     "location": "Chapelle des Pénitents Noirs, Villefranche-de-Rouergue (Aveyron)",
     "link": "http://www.aveyron-culture.com/diffusio/agenda/villefranche-de-rouergue/nuits-musicales-du-rouergue_TFO118627.php"
   },
   {
-    "type": "FESTIVALRECITAL",
+    "type": "FESTIVAL_RECITAL",
     "title": "Un Piano Sous les Arbres",
     "date": "2017-08-24T18:00:00+02:00",
     "location": "Orangerie, Lunel-Viel (Hérault)",
