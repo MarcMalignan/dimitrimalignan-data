@@ -37,14 +37,14 @@
   {
     "type": "CONCERT",
     "title": "Tournée des lauréats du Concours Mihail Jora",
-    "date": "2017-09-19",
+    "date": "2017-09-19T13:00+00:00",
     "location": "St Martin-In-The-Fields, Londres",
     "link": "http://www.stmartin-in-the-fields.org/event/free-lunchtime-concert-dimitri-malignan-piano-and-cornelius-zirbo-cello/"
   },
   {
     "type": "CONCERT",
     "title": "Concert privé",
-    "date": "2017-10-03",
+    "date": "2017-10-05",
     "location": "Salle Cortot, Paris",
     "link": "http://www.sallecortot.com/"
   },
