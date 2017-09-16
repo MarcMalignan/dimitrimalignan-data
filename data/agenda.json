@@ -2,28 +2,28 @@
   {
     "type": "RECITAL",
     "title": "Les Nuits du Piano-Paris",
-    "date": "2017-06-22T20:00:00+02:00",
+    "date": "2017-06-22T20:00:00",
     "location": "Auditorium AXA-Tour Majunga, La Défense (Puteaux)",
     "link": "http://paris.lesnuitsdupiano.fr/"
   },
   {
     "type": "FESTIVAL_CONCERT",
     "title": "Nohant-Chopin",
-    "date": "2017-07-22T18:00:00+02:00",
+    "date": "2017-07-22T18:00:00",
     "location": "Parc du domaine de George Sand, Nohant-Vic (Indre)",
     "link": "https://festivalnohant.com/"
   },
   {
     "type": "FESTIVAL_RECITAL",
     "title": "Les Nuits Musicales du Rouergue",
-    "date": "2017-07-28T21:00:00+02:00",
+    "date": "2017-07-28T20:00:00",
     "location": "Chapelle des Pénitents Noirs, Villefranche-de-Rouergue (Aveyron)",
     "link": "http://www.aveyron-culture.com/diffusio/agenda/villefranche-de-rouergue/nuits-musicales-du-rouergue_TFO118627.php"
   },
   {
     "type": "FESTIVAL_RECITAL",
     "title": "Un Piano Sous les Arbres",
-    "date": "2017-08-24T18:00:00+02:00",
+    "date": "2017-08-24T18:00:00",
     "location": "Orangerie, Lunel-Viel (Hérault)",
     "link": "http://unpianosouslesarbres.com/"
   },
@@ -37,7 +37,7 @@
   {
     "type": "CONCERT",
     "title": "Tournée des lauréats du Concours Mihail Jora",
-    "date": "2017-09-19T13:00:00+02:00",
+    "date": "2017-09-19T13:00:00",
     "location": "St Martin-In-The-Fields, Londres",
     "link": "http://www.stmartin-in-the-fields.org/event/free-lunchtime-concert-dimitri-malignan-piano-and-cornelius-zirbo-cello/"
   },
@@ -64,7 +64,7 @@
   {
     "type": "RECITAL",
     "title": "Concerts de Midi & Demi",
-    "date": "2017-12-21T12:30:00+01:00",
+    "date": "2017-12-21T12:30:00",
     "location": "Salle Cortot, Paris",
     "link": "http://www.sallecortot.com/"
   },
