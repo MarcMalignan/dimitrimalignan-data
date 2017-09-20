@@ -50,6 +50,12 @@
   },
   {
     "type": "RECITAL",
+    "title": "Lunch Concert KC",
+    "date": "2017-10-12T12:45:00",
+    "location": "Royal Conservatoire (Studio 1), La Haye",
+  },
+  {
+    "type": "RECITAL",
     "title": "APG World Connect",
     "date": "2017-11-02T19:00:00",
     "location": "Fairmont Hotel, Monaco",
