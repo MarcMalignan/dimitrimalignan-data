@@ -75,11 +75,10 @@
     "link": "https://www.konzerthaus.de/en/programm/bukarest-berlin-connection/2960"
   },
   {
-    "type": "RECITAL",
-    "title": "Concerts de Midi & Demi",
-    "date": "2017-12-21T12:30:00",
-    "location": "Salle Cortot, Paris",
-    "link": "http://www.sallecortot.com/"
+    "type": "CONCERT",
+    "title": "Récital privé avec Gina Gloria Tronel (Soprano Colorature)",
+    "date": "2017-12-19T19:30:00",
+    "location": "Salon Privé, Paris",
   },
   {
     "type": "RECITAL",
@@ -97,7 +96,7 @@
   },
   {
     "type": "CONCERT",
-    "title": "Orchestre Symphonique de Craiova / Gian Luigi Zampieri",
+    "title": "Concert avec l'Orchestre Symphonique de Craiova / Gian Luigi Zampieri",
     "date": "2018-02-23",
     "location": "Filarmonica Oltenia, Craiova (Roumanie)"
   },
