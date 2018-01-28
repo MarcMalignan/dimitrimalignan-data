@@ -120,11 +120,17 @@
     "title": "Récital privé - Cercle Assophie",
     "date": "2018-04-09T20:00:00",
     "location": "Cercle France-Amériques, Paris"
+   },
+   {
+    "type": "FESTIVAL_RECITAL",
+    "title": "Nohant Festival Chopin",
+    "date": "2018-07-01T11:00:00",
+    "location": "Bergerie-Auditorium Frédéric Chopin, Nohant-Vic (Indre)"
   },
   {
     "type": "FESTIVAL_RECITAL",
     "title": "Festival du Prieuré de Mayanne",
-    "date": "2018-07-08T16:00:30",
+    "date": "2018-07-08T16:30:00",
     "location": "Prieuré de Mayanne, Dangeul (Sarthe)"
   }
 ]
