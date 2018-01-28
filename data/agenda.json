@@ -124,6 +124,12 @@
    {
     "type": "FESTIVAL_RECITAL",
     "title": "Nohant Festival Chopin",
+    "date": "2018-06-29T20:30:00",
+    "location": "Eglise Saint-Etienne, Déols (Indre)"
+   },
+   {
+    "type": "FESTIVAL_RECITAL",
+    "title": "Nohant Festival Chopin",
     "date": "2018-07-01T11:00:00",
     "location": "Bergerie-Auditorium Frédéric Chopin, Nohant-Vic (Indre)"
   },
