@@ -98,14 +98,14 @@
   {
     "type": "CONCERT",
     "title": "Orchestre Symphonique de Craiova / Gian Luigi Zampieri",
-    "date": "2018-02-23",
+    "date": "2018-02-23T19:00:00",
     "location": "Filarmonica Oltenia, Craiova (Roumanie)",
     "link": "http://www.filarmonica-oltenia.ro/en/calendar/event/827-concert-vocal-simfonic-orchestra-simfonic-i-corala-academic-.html#logo"
   },
   {
     "type": "RECITAL",
     "title": "Les Matinées du Piano",
-    "date": "2018-04-08",
+    "date": "2018-04-08T10:45:00",
     "location": "Salle de l'Institut, Orléans",
     "link": "http://www.oci-piano.com/fr/matinees-du-piano/"
   },
