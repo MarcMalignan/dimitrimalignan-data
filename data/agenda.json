@@ -132,6 +132,12 @@
     "title": "Nohant Festival Chopin",
     "date": "2018-07-01T11:00:00",
     "location": "Bergerie-Auditorium Frédéric Chopin, Nohant-Vic (Indre)"
+   },
+   {
+    "type": "FESTIVAL_RECITAL",
+    "title": "Les Flâneries Musicales de Reims",
+    "date": "2018-07-05T19:00:00",
+    "location": "Auditorium du Conservatoire de Reims"
   },
   {
     "type": "FESTIVAL_RECITAL",
