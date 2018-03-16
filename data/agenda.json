@@ -119,7 +119,7 @@
     "type": "RECITAL",
     "title": "Récital",
     "date": "2018-03-25T16:30:00",
-    "location": "Auditorium du Conservatoire du 7ème arr. de Paris"
+    "location": "Cathédrale Ste-Croix des Arméniens, Paris"
   },
   {
     "type": "RECITAL",
@@ -150,7 +150,8 @@
     "type": "FESTIVAL_RECITAL",
     "title": "Nohant Festival Chopin",
     "date": "2018-07-01T11:00:00",
-    "location": "Bergerie-Auditorium Frédéric Chopin, Nohant-Vic (Indre)"
+    "location": "Bergerie-Auditorium Frédéric Chopin, Nohant-Vic (Indre)",
+    "link": "https://www.festivalnohant.com/event/dimitri-malignan-piano/"
    },
    {
     "type": "FESTIVAL_RECITAL",
