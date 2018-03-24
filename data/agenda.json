@@ -116,8 +116,8 @@
     "location": "Salon de Musique, Courbevoie (Hauts-de-Seine)"
   },
   {
-    "type": "RECITAL",
-    "title": "Récital",
+    "type": "FESTIVAL_RECITAL",
+    "title": "Opus 4 International Music Festival",
     "date": "2018-03-25T16:30:00",
     "location": "Cathédrale Ste-Croix des Arméniens, Paris"
   },
