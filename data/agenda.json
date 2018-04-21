@@ -127,19 +127,13 @@
     "date": "2018-03-31T19:00:00",
     "location": "Théâtre du Moulin d'Andé (Eure)",
     "link": "http://www.moulinande.com/"
-  },
-  {
+   },
+   {
     "type": "RECITAL",
     "title": "Récital privé - Cercle Assophie",
     "date": "2018-04-09T20:00:00",
     "location": "Cercle France-Amériques, Paris",
     "link": "https://france-ameriques.org/evenement/recital-de-piano-dimitri-malignan-prix-cortot-2017/"
-   },
-   {
-    "type": "MASTERCLASS",
-    "title": "Masterclass avec Sir Andràs Schiff",
-    "date": "2018-05-21T15:00:00",
-    "location": "Salle Cortot, Paris"
    },
    {
     "type": "RECITAL",
