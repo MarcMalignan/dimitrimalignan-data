@@ -172,5 +172,11 @@
     "title": "Les Nuits du Piano d'Erbalunga",
     "date": "2018-08-06T21:15:00",
     "location": "Théâtre de Verdure, Brando (Haute-Corse)"
+  },
+  {
+    "type": "MASTERCLASS",
+    "title": "Masterclass avec Andras Schiff",
+    "date": "2018-05-21T15:30:00",
+    "location": "Salle Cortot, Paris"
   }
 ]
