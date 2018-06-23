@@ -139,7 +139,8 @@
     "type": "FESTIVAL_RECITAL",
     "title": "Nohant Festival Chopin",
     "date": "2018-06-29T20:30:00",
-    "location": "Chapelle de Plaincourault, Mérigny (Indre)"
+    "location": "Chapelle de Plaincourault, Mérigny (Indre)",
+    "link": "https://www.festivalnohant.com/nohant-hors-les-murs-4/"
    },
    {
     "type": "FESTIVAL_RECITAL",
@@ -159,7 +160,8 @@
     "type": "FESTIVAL_RECITAL",
     "title": "Festival du Prieuré de Mayanne",
     "date": "2018-07-08T16:30:00",
-    "location": "Prieuré de Mayanne, Dangeul (Sarthe)"
+    "location": "Prieuré de Mayanne, Dangeul (Sarthe)",
+    "link": "http://www.mayanne.fr/actualite.htm"
   },
   {
     "type": "FESTIVAL_RECITAL",
