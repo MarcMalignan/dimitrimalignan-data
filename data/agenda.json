@@ -186,8 +186,9 @@
   {
     "type": "RECITAL",
     "title": "Cercle du Pont des Arts'monies",
-    "date": "2018-10-09",
-    "location": "Salon privé, Paris 8ème"
+    "date": "2018-10-09T19:30:00",
+    "location": "Salon privé, Paris 8ème",
+    "link": "http://pontdesartsmonies.org/contact"
   },
   {
     "type": "FESTIVAL_RECITAL",
