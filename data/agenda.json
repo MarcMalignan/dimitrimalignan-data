@@ -208,6 +208,12 @@
     "title": "Concert Anniversaire de Beethoven - Les Déconcertants",
     "date": "2018-12-16T15:30:00",
     "location": "Salle Colonne, Paris"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Récital privé",
+    "date": "2019-03-24T19:30:00",
+    "location": "Salon privé, Paris"
   }
   ]
     
