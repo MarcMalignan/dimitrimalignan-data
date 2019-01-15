@@ -214,7 +214,8 @@
     "type": "RECITAL",
     "title": "Récital",
     "date": "2019-03-22T20:30:00",
-    "location": "Salle Colonne, Paris"
+    "location": "Salle Colonne, Paris",
+    "link": "https://www.billetweb.fr/recital-dimitri-malignan-piano"
   },
   { 
     "type": "RECITAL",
