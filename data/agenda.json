@@ -236,6 +236,12 @@
     "location": "La Borde, Leugny (Yonne)"
   },
   {
+    "type": "CONCERT",
+    "title": "Centenaire de l'Ecole Normale de Musique de Paris A. Cortot",
+    "date": "2019-10-13",
+    "location": "Salle Cortot, Paris"
+  },
+  {
     "type": "RECITAL",
     "title": "Récital",
     "date": "2019-12-14T16:30:00",
