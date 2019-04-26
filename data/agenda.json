@@ -246,7 +246,13 @@
   },
   {
     "type": "CONCERT",
-    "title": "Centenaire de l'Ecole Normale de Musique de Paris A. Cortot",
+    "title": "Concert Albert Roussel - Académie de Musique Française pour Piano",
+    "date": "2019-07-06",
+    "location": "Salle Cortot, Paris" 
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert de gala pour le Centenaire de l'Ecole Normale de Musique de Paris A. Cortot",
     "date": "2019-10-13",
     "location": "Salle Cortot, Paris"
   },
