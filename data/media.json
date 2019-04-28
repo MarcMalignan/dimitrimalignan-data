@@ -1,6 +1,24 @@
 {
   "videos": [
     {
+      "id": "CEbYTqO5cAQ",
+      "type": "youtube",
+      "title": "Beethoven, Piano Sonata No. 30 | Dimitri Malignan",
+      "date": "2019-01-05"
+    },
+    {
+      "id": "N-0EZYlyhl4",
+      "type": "youtube",
+      "title": "BRAHMS, Intermezzo in e minor, op. 119 n° 2 - Dimitri Malignan",
+      "date": "2018-10-26"
+    },
+    {
+      "id": "EQh7waELTTU",
+      "type": "youtube",
+      "title": "DEBUSSY, \"Feux d'artifice\" (Préludes, 2ème Livre) - Dimitri Malignan",
+      "date": "2018-10-26"
+    },
+    {
       "id": "x5pbgwl",
       "type": "dailymotion",
       "title": "Prokofiev : Six Pièces d’après Cendrillon op.102 Valse (Cendrillon va au bal) par Dimitri Malignan",
