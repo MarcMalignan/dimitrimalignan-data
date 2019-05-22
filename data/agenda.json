@@ -246,6 +246,12 @@
   },
   {
     "type": "CONCERT",
+    "title": "5ème Symphonie de Chostakovitch - Les Déconcertants",
+    "date": "2019-06-26T21:00:00",
+    "location": "Salle Colonne, Paris"
+  },
+  {
+    "type": "CONCERT",
     "title": "Concert de l'Académie de Musique Française pour Piano",
     "date": "2019-07-06",
     "location": "Salle Cortot, Paris" 
