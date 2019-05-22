@@ -244,6 +244,12 @@
     "location": "Domaine La Borde, Leugny (Yonne)",
     "link": "https://www.lbmh.fr/"
   },
+  { 
+    "type": "Concert",
+    "title": "Concert privé",
+    "date": "2019-06-01",
+    "location": "Misy-sur-Yonne (Seine-et-Marne)"
+  },
   {
     "type": "CONCERT",
     "title": "Concert de l'Académie de Musique Française pour Piano",
