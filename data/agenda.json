@@ -252,6 +252,12 @@
   },
   {
     "type": "CONCERT",
+    "title": "Le Carnaval des Animaux",
+    "date": "2019-10-03T20:30:00",
+    "location": "Théâtre de Rungis (Val-de-Marne)"
+  },
+  {
+    "type": "CONCERT",
     "title": "Concert des Prix Cortot - Centenaire de l'Ecole Normale de Musique de Paris",
     "date": "2019-10-13",
     "location": "Salle Cortot, Paris"
