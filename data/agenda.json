@@ -264,12 +264,6 @@
   },
   {
     "type": "CONCERT",
-    "title": "Concert de l'Académie de Musique Française pour Piano",
-    "date": "2019-07-06",
-    "location": "Salle Cortot, Paris" 
-  },
-  {
-    "type": "CONCERT",
     "title": "Le Carnaval des Animaux",
     "date": "2019-10-03T20:30:00",
     "location": "Théâtre de Rungis (Val-de-Marne)"
