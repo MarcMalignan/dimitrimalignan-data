@@ -263,6 +263,13 @@
     "location": "Salle Colonne, Paris"
   },
   {
+    "type": "RECITAL",
+    "title": "The International Holland Music Sessions",
+    "date": "2019-08-07T20:30:00",
+    "location": "Lutherse Kerk, Haarlem (Pays-Bas)",
+    "link": "https://tihms.com/concert/2019-08-07-haarlem/"
+  },
+  {
     "type": "CONCERT",
     "title": "Le Carnaval des Animaux",
     "date": "2019-10-03T20:30:00",
