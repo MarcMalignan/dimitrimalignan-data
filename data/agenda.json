@@ -292,6 +292,12 @@
     "title": "Récital",
     "date": "2019-12-14T16:30:00",
     "location": "Musée des Avelines, Saint-Cloud (Hauts-de-Seine)"
+  },
+  { 
+    "type": "CONCERT",
+    "title": "Amsterdams Symphonie Orkest Con Brio / Willem de Bordes",
+    "date": "2019-12-15T16:00:00",
+    "location": "De Duif, Amsterdam"
    },
    {
     "type": "RECITAL",
