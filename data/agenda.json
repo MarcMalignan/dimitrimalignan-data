@@ -299,7 +299,8 @@
     "type": "CONCERT",
     "title": "Amsterdams Symphonie Orkest Con Brio / Willem de Bordes",
     "date": "2019-12-15T16:00:00",
-    "location": "De Duif, Amsterdam"
+    "location": "De Duif, Amsterdam",
+    "link": "https://www.con-brio.nl/concertagenda/"
    },
    {
     "type": "RECITAL",
