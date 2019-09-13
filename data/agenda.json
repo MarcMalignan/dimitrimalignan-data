@@ -273,19 +273,21 @@
     "type": "CONCERT",
     "title": "Le Carnaval des Animaux",
     "date": "2019-10-03T20:30:00",
-    "location": "Théâtre de Rungis (Val-de-Marne)"
+    "location": "Théâtre de Rungis (Val-de-Marne)",
+    "link": "http://www.theatre-rungis.fr/spectacles/fiche_spectacle.cfm/377707/piano_piano_.html"
   },
   {
     "type": "CONCERT",
-    "title": "Concert des Prix Cortot - Centenaire de l'Ecole Normale de Musique de Paris",
-    "date": "2019-10-13",
-    "location": "Salle Cortot, Paris"
+    "title": "Centenaire de l'Ecole Normale de Musique de Paris",
+    "date": "2019-10-13T19:30:00",
+    "location": "Salle Cortot, Paris",
+    "link": "http://www.sallecortot.com/concert/1919__2019__lecole_normale_de_musique_fete_son_centenaire.htm?idr=28254"
   },
   {
     "type": "CONCERT",
-    "title": "Concert des Prix Cortot - Centenaire de l'Ecole Normale de Musique de Paris",
+    "title": "Concert privé",
     "date": "2019-10-14",
-    "location": "Salle Cortot, Paris"
+    "location": "Ecole Normale de Musique de Paris"
   },
   {
     "type": "RECITAL",
