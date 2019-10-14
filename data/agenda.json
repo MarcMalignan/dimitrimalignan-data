@@ -286,8 +286,8 @@
   {
     "type": "CONCERT",
     "title": "Concert privé",
-    "date": "2019-10-14",
-    "location": "Ecole Normale de Musique de Paris"
+    "date": "2019-10-14T20:30:00",
+    "location": "Salle Cortot, Paris"
   },
   {
     "type": "RECITAL",
@@ -326,6 +326,12 @@
     "title": "Stagiunea de Marți seara",
     "date": "2020-03-17T20:00:00",
     "location": "Filarmonica George Enescu - Ateneul Roman (Sala Mica), Bucarest"
+   },
+   {
+     "type": "RECITAL",
+     "title": "Recital",
+     "date": "2020-03-20T18:30:00",
+     "location": "The Scottish Arts Club, Edimbourg"
   }
   ]
     
