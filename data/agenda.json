@@ -293,13 +293,15 @@
     "type": "RECITAL",
     "title": "Lunch Concert",
     "date": "2019-11-20T12:30:00",
-    "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)"
+    "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)",
+    "link": "https://www.conservatoriumvanamsterdam.nl/agenda/2019/11/20/lunchconcert-klassiek-7367bea296/"
   },
   {
     "type": "CONCERT",
     "title": "Dutch Female Composers",
     "date": "2019-11-22T19:00:00",
-    "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)"
+    "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)",
+    "link": "https://www.facebook.com/events/699765180500153/"
   },
   {
     "type": "RECITAL",
