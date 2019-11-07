@@ -298,10 +298,16 @@
   },
   {
     "type": "CONCERT",
-    "title": "Dutch Female Composers",
+    "title": "Dutch Female Composers II, avec Natalia Szmydt (violon)",
     "date": "2019-11-22T19:00:00",
     "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)",
     "link": "https://www.facebook.com/events/699765180500153/"
+  },
+  {
+    "type": "Concert",
+    "title": "Concert privé, avec Natalia Szmydt (violon)",
+    "date": "2019-11-22T20:30:00",
+    "location": "Salon privé, Bilthoven (Pays-Bas)"
   },
   {
     "type": "RECITAL",
