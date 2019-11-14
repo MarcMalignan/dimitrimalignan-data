@@ -337,6 +337,12 @@
    },
    {
     "type": "RECITAL",
+    "title": "Récital",
+    "date": "2020-03-05",
+    "location": "Salon Viotta, Amsterdam"
+   },
+   {
+    "type": "RECITAL",
     "title": "Stagiunea de Marți seara",
     "date": "2020-03-17T20:00:00",
     "location": "Filarmonica George Enescu - Ateneul Roman (Sala Mica), Bucarest"
