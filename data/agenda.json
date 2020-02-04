@@ -126,6 +126,12 @@
   },
   {
     "type": "CONCERT",
+    "title": "Concert avec Natalia Szmydt (violon)",
+    "date": "2020-02-03T20:00:00",
+    "location": "Kasteel Keppel, Laag-Keppel (Pays-Bas)"
+  },
+  { 
+    "type": "CONCERT",
     "title": "Missing Voices Project avec Elizaveta Agrafenina (Soprano) et Zsuzsa Domahidi (Flûte)",
     "date": "2020-02-08T20:00:00",
     "location": "Conservatorium van Amsterdam (Sweelinckzaal)",
