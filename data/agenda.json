@@ -152,9 +152,17 @@
   },
   {
     "type": "RECITAL",
+    "title": "Missing Voices Lecture-Recital",
+    "date": "2020-03-12T15:30:00",
+    "location": "Conservatorium van Amsterdam (Sweelinckzaal)",
+    "link": "https://www.conservatoriumvanamsterdam.nl/media/cva/docs/onderzoek/Master-Research-Symposium-2020.pdf" 
+  },
+  {
+    "type": "RECITAL",
     "title": "Stagiunea de Marți seara",
     "date": "2020-03-17T20:00:00",
-    "location": "Filarmonica George Enescu - Ateneul Roman (Sala Mica), Bucarest"
+    "location": "Filarmonica George Enescu - Ateneul Roman (Sala Mica), Bucarest",
+    "link": "https://www.fge.org.ro/calendar/#event=37642892"
   },
   {
     "type": "RECITAL",
