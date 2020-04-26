@@ -159,35 +159,15 @@
   },
   {
     "type": "RECITAL",
-    "title": "Stagiunea de Marți seara",
-    "date": "2020-03-17T20:00:00",
-    "location": "Filarmonica George Enescu - Ateneul Roman (Sala Mica), Bucarest",
-    "link": "https://www.fge.org.ro/calendar/#event=37642892"
-  },
-  {
-    "type": "RECITAL",
     "title": "Récital",
-    "date": "2020-03-21T12:00:00",
-    "location": "The Scottish Arts Club, Edimbourg",
-    "link": "https://www.scottishartsclub.com/exhibition/dimitri-malignan"
+    "date": "2020-10-17T12:00:00",
+    "location": "The Scottish Arts Club, Edimbourg"
+  
   },
   {
-    "type": "RECITAL",
-    "title": "Lunch Concert",
-    "date": "2020-03-25T12:30:00",
-    "location": "Conservatorium van Amsterdam (Sweelinckzaal)"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Récital",
-    "date": "2020-04-18T17:00:00",
-    "location": "Cathédrale Sainte-Croix des Arméniens, Paris"
-  },
-  {
-    "type": "FESTIVAL_CONCERT",
-    "title": "Trasimeno Music Festival - 2 pianos avec Angela Hewitt",
-    "date": "2020-07-03T21:15:00",
-    "location": "Castello dei Cavalieri di Malta, Magione (Italie)",
-    "link": "https://trasimenomusicfestival.com/event/the-carnival-of-the-animals/"
+    "type": "FESTIVAL/RECITAL",
+    "title": "CMIM International Online Piano Festival",
+    "date": "2020-05-04",
+    "location": "Facebook"
   }
 ]
