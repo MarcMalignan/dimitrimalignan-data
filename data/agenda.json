@@ -172,6 +172,12 @@
   },
   {
     "type": "RECITAL",
+    "title": "Récital",
+    "date": "2020-11-16T20:30:00",
+    "location": "Salle Cortot, Paris"
+  },
+  {
+    "type": "RECITAL",
     "title": "Stagiunea de marti seara",
     "date": "2020-11-24T19:00:00",
     "location": "Ateneul Roman (Sala Mica), Bucarest"
