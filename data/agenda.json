@@ -172,6 +172,12 @@
   },
   {
     "type": "RECITAL",
+    "title": "Récital privé",
+    "date": "2020-07-04",
+    "location": "Salon privé, Paris"
+  },
+  {
+    "type": "RECITAL",
     "title": "Récital",
     "date": "2020-11-16T20:30:00",
     "location": "Salle Cortot, Paris"
