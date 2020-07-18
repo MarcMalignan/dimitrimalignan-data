@@ -177,6 +177,12 @@
     "location": "Salon privé, Paris"
   },
   {
+    "type": "CONCERT",
+    "title": "Opus Ballade",
+    "date": "2020-09-03T20:00:00",
+    "location": "Théâtre G. Brassens, Villemomble (Seine-Saint-Denis)"
+  },
+  {
     "type": "RECITAL",
     "title": "Récital",
     "date": "2020-11-16T20:30:00",
