@@ -1,6 +1,18 @@
 {
   "videos": [
     {
+      "id": "ChMzgS1_EQg",
+      "type": "youtube",
+      "title": "J.S. Bach, Sinfonia 10 in G major, BWV 796 | Dimitri Malignan",
+      "date": "2020-07-11"
+    },
+    {
+      "id": "FsB3RU0VECQ",
+      "type": "youtube",
+      "title": "Rachmaninov, Prelude Op. 32 No. 5 in G major | Dimitri Malignan",
+      "date": "2019-12-23"
+    },
+    {
       "id": "U-deKdT3ITI",
       "type": "youtube",
       "title": "Rachmaninov, Prelude Op. 32 No. 8 in A minor | Dimitri Malignan",
