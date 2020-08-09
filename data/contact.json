@@ -1,5 +1,15 @@
 {
-  "facebook": "https://www.facebook.com/dimitrimalignanpro/",
+  "agent": {
+    "name": "Alexandre Lenne",
+    "company": "InPulse Creatives",
+    "title": "Agent & Manager",
+    "link": "https://www.inpulsecreatives.com/",
+    "email": "alexandre.lenne.p@gmail.com",
+    "phone": "+33 7 68 97 44 87"
+  },
   "email": "contact@dimitrimalignan.com",
-  "emailManager": "mhmalignan@gmail.com"
+  "emailManager": "mhmalignan@gmail.com",
+  "facebook": "https://www.facebook.com/dimitrimalignanpro/",
+  "instagram": "https://www.instagram.com/dimitrimalignan/",
+  "spotify": "https://open.spotify.com/artist/35oiXCZX8RlNODoDLfWlmy?si=slH-AxY4S-iN50oAGTIpTg"
 }
