@@ -180,7 +180,8 @@
     "type": "CONCERT",
     "title": "Opus Ballade",
     "date": "2020-09-03T20:00:00",
-    "location": "Théâtre G. Brassens, Villemomble (Seine-Saint-Denis)"
+    "location": "Théâtre G. Brassens, Villemomble (Seine-Saint-Denis)",
+    "link": "https://www.facebook.com/events/292872552013167/"
   },
   {
     "type": "RECITAL",
