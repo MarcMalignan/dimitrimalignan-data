@@ -192,6 +192,18 @@
   },
   {
     "type": "RECITAL",
+    "title": "Concert privé",
+    "date": "2020-11-20T20:00:00",
+    "location": "Salon de Musique, Courbevoie (Hauts-de-Seine)",
+  },
+  {
+    "type": "RECITAL",
+    "title": "Concert privé",
+    "date": "2020-11-22T16:00:00",
+    "location": "Salon de Musique, Courbevoie (Hauts-de-Seine)",
+  },
+  {
+    "type": "RECITAL",
     "title": "Stagiunea de marti seara",
     "date": "2020-11-24T19:00:00",
     "location": "Ateneul Roman (Sala Mica), Bucarest" 
