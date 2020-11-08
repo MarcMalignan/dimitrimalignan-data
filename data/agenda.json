@@ -192,47 +192,9 @@
   },
   {
     "type": "RECITAL",
-    "title": "Récital",
-    "date": "2020-11-16T20:30:00",
-    "location": "Salle Cortot, Paris",
-    "link": "http://www.sallecortot.com/concert/dimitri_malignan_bach_et_beethoven.htm?idr=30522"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Concert privé",
-    "date": "2020-11-20T20:00:00",
-    "location": "Salon de Musique, Courbevoie (Hauts-de-Seine)"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Concert privé",
-    "date": "2020-11-13T20:00:00",
-    "location": "Salon de Musique, Courbevoie (Hauts-de-Seine)"
-  },
-  {
-    "type": "RECITAL",
     "title": "Stagiunea de marti seara",
     "date": "2020-11-24T19:00:00",
     "location": "Ateneul Roman (Sala Mica), Bucarest" 
-   },
-   {  
-    "type": "RECITAL",
-    "title": "Buftea Live!",
-    "date": "2020-11-28T17:00:00",
-    "location": "Centrul Cultural, Buftea (Roumanie)",
-    "link": "https://www.cluborfeu.live/p/buftea-live.html"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Beethoven Marathon",
-    "date": "2020-12-19T15:15:00",
-    "location": "Conservatorium van Amsterdam (Bernard Haitinkzaal)" 
-  },
-  {
-    "type": "CONCERT",
-    "title": "Beethoven Marathon",
-    "date": "2020-12-19T19:30:00",
-    "location": "Muziekcentrum van de Omroep, Hilversum"
   },
   {
     "type": "CONCERT",
