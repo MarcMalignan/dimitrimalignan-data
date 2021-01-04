@@ -160,7 +160,7 @@
   {
     "type": "RECITAL",
     "title": "Récital",
-    "date": "2020-10-17T12:00:00",
+    "date": "2021-03-19T18:00:00",
     "location": "The Scottish Arts Club, Edimbourg"
   },
   {
@@ -179,27 +179,34 @@
   {
     "type": "CONCERT",
     "title": "Opus Ballade",
-    "date": "2020-09-03T20:00:00",
-    "location": "Théâtre G. Brassens, Villemomble (Seine-Saint-Denis)"
+    "date": "2020-09-03T20:30:00",
+    "location": "Théâtre G. Brassens, Villemomble (Seine-Saint-Denis)",
+    "link": "https://www.facebook.com/events/292872552013167/"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Kamermuziek 's-Hertogenbosch - lunch concert avec Natalia Szmydt (violon)",
+    "date": "2020-10-29T12:00:00",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch",
+    "link": "https://www.kamermuziekshertogenbosch.nl/index.php/202010-oktober"
   },
   {
     "type": "RECITAL",
-    "title": "Récital",
-    "date": "2020-11-16T20:30:00",
-    "location": "Salle Cortot, Paris",
-    "link": "http://www.sallecortot.com/concert/dimitri_malignan_bach_et_beethoven.htm?idr=30522"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Stagiunea de marti seara",
+    "title": "Stagiunea de marti seara (Online)",
     "date": "2020-11-24T19:00:00",
-    "location": "Ateneul Roman (Sala Mica), Bucarest" 
-   },
-   {  
-    "type": "RECITAL",
-    "title": "Buftea Live!",
-    "date": "2020-11-27T13:30:00",
-    "location": "Centrul Cultural, Buftea (Roumanie)",
-    "link": "https://www.cluborfeu.live/p/buftea-live.html"
+    "location": "Ateneul Roman (Sala Mica), Bucarest",
+    "link": "https://www.youtube.com/watch?v=ojDhyhliGtE&t=168s&ab_channel=FilarmonicaGeorgeEnescu"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert avec Natalia Szmydt (violon) et Elizaveta Agrafenina (soprano)",
+    "date": "2021-01-17",
+    "location": "Salon De Ijzerstaven, Amsterdam"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Kamermuziek 's-Hertogenbosch - lunch concert avec Natalia Szmydt (violon) et Bea Andrés (violoncelle)",
+    "date": "2021-10-14T12:00:00",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch"
   }
 ]
