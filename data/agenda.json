@@ -198,6 +198,19 @@
     "link": "https://www.youtube.com/watch?v=ojDhyhliGtE&t=168s&ab_channel=FilarmonicaGeorgeEnescu"
   },
   {
+    "type": "RECITAL",
+    "title": "Piano Passion",
+    "date": "2021-06-10T20:00:00", 
+    "location": "Eglise Saint-Julien-le-Pauvre, Paris",
+    "link": "https://www.pianopassionparis.net/programme"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Classic-Picknick-Concert",
+    "date": "2021-08-14T19:00:00", 
+    "location": "Open Air, Fröndenberg (Allemagne)",
+  },
+  {
     "type": "CONCERT",
     "title": "Kamermuziek 's-Hertogenbosch - lunch concert avec Natalia Szmydt (violon) et Bea Andrés (violoncelle)",
     "date": "2021-10-14T12:00:00",
