@@ -205,6 +205,12 @@
     "link": "https://www.bs-artist.com/medias/files/presentation-st-julien-le-pauvre-150321.pdf"
   },
   {
+    "type": "RECITAL/FESTIVAL",
+    "title": "Classic-Picknick-Concert",
+    "date": "2021-08-14T19:00:00", 
+    "location": "Open Air, Fröndenberg (Allemagne)",
+  },
+  {
     "type": "CONCERT",
     "title": "Kamermuziek 's-Hertogenbosch - lunch concert avec Natalia Szmydt (violon) et Bea Andrés (violoncelle)",
     "date": "2021-10-14T12:00:00",
