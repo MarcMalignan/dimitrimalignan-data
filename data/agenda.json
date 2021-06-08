@@ -159,12 +159,6 @@
   },
   {
     "type": "RECITAL",
-    "title": "Récital",
-    "date": "2021-06-25T18:00:00",
-    "location": "The Scottish Arts Club, Edimbourg"
-  },
-  {
-    "type": "RECITAL",
     "title": "Je reviendrai à Montréal - CMIM International Online Piano Festival",
     "date": "2020-05-04",
     "location": "CMIM",
@@ -202,13 +196,13 @@
     "title": "Piano Passion",
     "date": "2021-06-11T20:00:00", 
     "location": "Eglise Saint-Julien-le-Pauvre, Paris",
-    "link": "https://www.pianopassionparis.net/programme"
+    "link": "https://www.pianopassionparis.net/event-details/dimitri-malignan"
   },
   {
     "type": "RECITAL",
     "title": "Classic-Picknick-Concert",
     "date": "2021-08-14T19:00:00", 
-    "location": "Open Air, Fröndenberg/Ruhr (Allemagne)"
+    "location": "Himmelmannpark, Fröndenberg/Ruhr (Allemagne)"
   },
   {
     "type": "CONCERT",
