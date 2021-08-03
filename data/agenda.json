@@ -207,9 +207,16 @@
   },
   {
     "type": "RECITAL",
-    "title": "Classic-Picknick-Concert",
+    "title": "Klassik-Picknick-Koncert",
     "date": "2021-08-14T19:00:00", 
-    "location": "Himmelmannpark, Fröndenberg/Ruhr (Allemagne)"
+    "location": "Himmelmannpark, Fröndenberg/Ruhr (Allemagne)",
+    "link": "https://www.proticket.de/veranstaltung/16725-klassik-picknick-konzert/"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Konzertreihe Cognito",
+    "date": "2021-09-21T19:30:00", 
+    "location": "TriBühne, Norderstedt (Allemagne)"
   },
   {
     "type": "CONCERT",
