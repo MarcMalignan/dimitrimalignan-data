@@ -209,19 +209,25 @@
     "type": "RECITAL",
     "title": "Klassik-Picknick-Koncert",
     "date": "2021-08-14T19:00:00", 
-    "location": "Himmelmannpark, Fröndenberg/Ruhr (Allemagne)",
+    "location": "Himmelmannpark, Fröndenberg/Ruhr (Germany)",
     "link": "https://www.proticket.de/veranstaltung/16725-klassik-picknick-konzert/"
   },
   {
     "type": "RECITAL",
     "title": "Konzertreihe Cognito",
     "date": "2021-09-21T19:30:00", 
-    "location": "TriBühne, Norderstedt (Allemagne)"
+    "location": "TriBühne, Norderstedt (Germany)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Steinway Prizewinner Concerts - Musical Cruise",
+    "date": "2021-09-25", 
+    "location": "Sea Cloud II, Nice/Marseille/Cannes/L'Ile-Rousse/Ajaccio (France)"
   },
   {
     "type": "CONCERT",
     "title": "Kamermuziek 's-Hertogenbosch - lunch concert avec Natalia Szmydt (violon) et Bea Andrés (violoncelle)",
     "date": "2021-10-14T12:00:00",
-    "location": "Podium Azijnfabriek, 's-Hertogenbosch"
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)"
   }
 ]
