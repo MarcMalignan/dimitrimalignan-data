@@ -227,6 +227,12 @@
     "link": "https://issuu.com/seacloudcruises/docs/scii-c2129_steinway_dimitri_malignan_150?fr=sNTBhMjM5ODAzMDY"
   },
   {
+    "type": "CONCERT",
+    "title": "Concert Pédagogique - Festival Piano en Valois",
+    "date": "2021-10-01T14:00:00", 
+    "location": "Paroisse Saint-Paul (Ma Campagne), Angoulême (France)"
+  },
+  {
     "type": "RECITAL",
     "title": "Festival Piano en Valois",
     "date": "2021-10-02T20:30:00", 
