@@ -244,5 +244,11 @@
     "title": "Kamermuziek 's-Hertogenbosch - lunch concert",
     "date": "2021-10-14T12:30:00",
     "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Natalia Szymdt (violin) and Elisa Maayeshi (soprano)",
+    "date": "2021-11-07T16:00:00",
+    "location": "SmithArt, Middelburg (the Netherlands)"
   }
 ]
