@@ -247,6 +247,13 @@
   },
   {
     "type": "CONCERT",
+    "title": "Festival Forbidden Music Regained - Leo Smit Foundation",
+    "date": "2021-11-06T14:00:00",
+    "location": "Bernard Haintikzaal - Conservatorium van Amsterdam (the Netherlands)",
+    "link": "https://leosmitfoundation.org/agenda/presentatie-fobidden-music-regained"
+  },
+  {
+    "type": "CONCERT",
     "title": "Concert with Natalia Szymdt (violin) and Elisa Maayeshi (soprano)",
     "date": "2021-11-07T16:00:00",
     "location": "SmithArt, Middelburg (the Netherlands)"
