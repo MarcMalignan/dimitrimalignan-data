@@ -271,5 +271,19 @@
     "title": "Bach Concert with Irina Shashkova-Peterson (Organ)",
     "date": "2021-12-02T18:00:00",
     "location": "St-Peter-and-Paul Lutheran Cathedral, Moscow (Russia)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Orchstra Simfonica George Enescu / Yoav Talmi",
+    "date": "2022-01-27T19:00:00",
+    "location": "Ateneul Roman, Bucharest (Romania)",
+    "link": "https://ove.ro/sala-mare-27-ianuarie-2022"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Orchstra Simfonica George Enescu / Yoav Talmi",
+    "date": "2022-01-28T19:00:00",
+    "location": "Ateneul Roman, Bucharest (Romania)",
+    "link": "https://ove.ro/sala-mare-28-ianuarie-2022/locuri?embed=0"
   }
 ]
