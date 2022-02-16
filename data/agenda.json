@@ -285,5 +285,18 @@
     "date": "2022-01-28T19:00:00",
     "location": "Ateneul Roman, Bucharest (Romania)",
     "link": "https://ove.ro/sala-mare-28-ianuarie-2022/locuri?embed=0"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Trasimeno Music Festival",
+    "date": "2022-07-04T",
+    "location": "Chiesa di San Francesco, Trevi (Italy)",
+    "link": "https://trasimenomusicfestival.com/event/young-talents-2/"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Musica d'Estate",
+    "date": "2022-07-28T16:00:00",
+    "location": "Chiesa di Sant' Ippolito, Bardonecchia (Italy)"
   }
 ]
