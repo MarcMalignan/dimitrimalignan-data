@@ -285,6 +285,12 @@
     "date": "2022-01-28T19:00:00",
     "location": "Ateneul Roman, Bucharest (Romania)",
     "link": "https://ove.ro/sala-mare-28-ianuarie-2022/locuri?embed=0"
+ },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Natalia Szmydt (violin),
+    "date": "2022-19-03T20:00:00",
+    "location": "Witte Kerkje, Lunteren (the Netherlands)"
   },
   {
     "type": "FESTIVAL",
