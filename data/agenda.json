@@ -296,7 +296,8 @@
     "type": "CONCERT",
     "title": "Concert with Natalia Szmydt (violin)",
     "date": "2022-03-17T20:00:00",
-    "location": "Oosterkerk, Amsterdam (the Netherlands)"
+    "location": "Oosterkerk, Amsterdam (the Netherlands)",
+    "Link": "https://www.oosterkerk-amsterdam.nl/event/afscheidsconcerten-bosmans-beyond/"
   },
   {
     "type": "FESTIVAL",
