@@ -121,5 +121,11 @@
     "title": "Musica d'Estate",
     "date": "2022-07-28T16:00:00",
     "location": "Chiesa di Sant' Ippolito, Bardonecchia (Italy)"
-  }
+  },
+  {
+    "type": "RECITAL",
+    "title": "Piano Passion",
+    "date": "2022-09-15T20:00:00", 
+    "location": "Eglise Saint-Julien-le-Pauvre, Paris"
+}
 ]
