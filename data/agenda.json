@@ -125,5 +125,11 @@
     "title": "Piano Passion",
     "date": "2022-09-15T20:00:00", 
     "location": "Eglise Saint-Julien-le-Pauvre, Paris (France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Kamermuziek 's-Hertogenbosch - with Natalia Szmydt (violin) and Mikko Pablo (cello)",
+    "date": "2022-11-17",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)"
   }
 ]
