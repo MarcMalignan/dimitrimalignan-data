@@ -144,5 +144,11 @@
     "title": "Concert with Elizaveta Agrafenina (soprano), Natalia Szmydt (violin) and Mikko Pablo (cello)",
     "date": "2022-10-15",
     "location": "Salon De Ijzerstaven, Amsterdam (the Netherlands)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Les grands récitals de Piano de Copernic",
+    "date": "2023-02-12T17:00:00", 
+    "location": "Synagogue Copernic, Paris (France)"
   }
 ]
