@@ -158,5 +158,11 @@
     "date": "2023-02-12T17:00:00", 
     "location": "Synagogue Copernic, Paris (France)",
     "link": "https://my.weezevent.com/malignan"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Natalia Szmydt (violin) and Mikko Pablo (cello)",
+    "date": "2023-11-24",
+    "location": "De Leidse Salon, Leiden (the Netherlands)"
   }
 ]
