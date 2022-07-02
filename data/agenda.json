@@ -108,14 +108,14 @@
     "link": "https://www.oosterkerk-amsterdam.nl/event/afscheidsconcerten-bosmans-beyond/"
   },
   {
-    "type": "FESTIVAL/RECITAL",
+    "type": "FESTIVAL",
     "title": "Trasimeno Music Festival",
     "date": "2022-07-04T15:00:00",
     "location": "Chiesa di San Francesco, Trevi (Italy)",
     "link": "https://trasimenomusicfestival.com/event/young-talents-2/"
   },
   {
-    "type": "FESTIVAL/RECITAL",
+    "type": "FESTIVAL",
     "title": "Musica d'Estate",
     "date": "2022-07-28T16:00:00",
     "location": "Chiesa di Sant' Ippolito, Bardonecchia (Italy)",
@@ -128,7 +128,7 @@
     "location": "Maison du Portugal - Cité Internationale Universitaire de Paris (France)"
   },
   {
-    "type": "FESTIVAL/RECITAL",
+    "type": "FESTIVAL",
     "title": "Festival Terraqué",
     "date": "2022-09-13T21:00:00",
     "location": "Église Saint-Cornély, Carnac (France)"
@@ -141,7 +141,7 @@
     "link": "https://www.pianopassionparis.net/event-details/dimitri-malignan-2"
   },
   {
-    "type": "FESTIVAL/CONCERT",
+    "type": "FESTIVAL",
     "title": "Festival de Muze van Zuid - Bosmans & Beyond concert with Elizaveta Agrafenina (soprano)",
     "date": "2022-09-17T11:00:00",
     "location": "Buitenpodium Obrechtkerk, Amsterdam (the Netherlands)",
