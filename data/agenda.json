@@ -151,14 +151,16 @@
   {
     "type": "CONCERT",
     "title": "Kamermuziek 's-Hertogenbosch - Bosmans & Beyond concert with Natalia Szmydt (violin) and Mikko Pablo (cello)",
-    "date": "2022-11-17",
-    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)"
+    "date": "2022-11-17T12:30:00",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)",
+    "link": "https://www.kamermuziekshertogenbosch.nl/index.php/concert-agenda"
   },
   {
     "type": "CONCERT",
     "title": "Bosmans & Beyond concert with Elizaveta Agrafenina (soprano), Natalia Szmydt (violin) and Mikko Pablo (cello)",
-    "date": "2022-10-15",
-    "location": "Salon De Ijzerstaven, Amsterdam (the Netherlands)"
+    "date": "2022-10-15T20:30:00",
+    "location": "Salon De Ijzerstaven, Amsterdam (the Netherlands)",
+    "link": "https://www.ijzerstaven.nl/event-details/liederen-van-henriette-bosmans-met-sopraan-elizaveta-agriffenina"
   },
   {
     "type": "RECITAL",
