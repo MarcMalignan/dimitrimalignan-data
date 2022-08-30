@@ -131,7 +131,7 @@
     "type": "RECITAL",
     "title": "Festival Terraqué",
     "date": "2022-09-13T22:00:00",
-    "location": "Église Saint-Cornély, Carnac (France)",
+    "location": "Église Saint-Cornély, Carnac (Morbihan, France)",
     "link": "http://festivalterraque.com/programme/dyptique-de-lombre/"
   },
   {
@@ -153,6 +153,12 @@
     "title": "La Diaspora Juive Portugaise - Chemins Musicaux with Eva Viegas (piano 4 hands)",
     "date": "2022-09-27", 
     "location": "Galerie Hus, Paris (France)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Festival Les ClisSonantes",
+    "date": "2022-10-09T19:30:00",
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)",
   },
   {
     "type": "CONCERT",
