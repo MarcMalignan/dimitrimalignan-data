@@ -184,6 +184,13 @@
     "link": "http://ciar.e-monsite.com/pages/festival/festival-2022/"
   },
   {
+    "type": "CONCERT",
+    "title": "Lecture-Concert - Late Beethoven",
+    "date": "2022-12-05T19:00:00",
+    "location": "Sala Casella - Accademia Filarmonica Romana, Rome (Italy)",
+    "link": "https://www.filarmonicaromana.org/"
+  },
+  {
     "type": "RECITAL",
     "title": "Les grands récitals de Piano de Copernic",
     "date": "2023-02-12T17:00:00", 
