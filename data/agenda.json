@@ -196,6 +196,24 @@
     "date": "2023-02-12T17:00:00", 
     "location": "Synagogue Copernic, Paris (France)",
     "link": "https://my.weezevent.com/malignan"
+ },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2023-02-17T19:00:00", 
+    "location": "Bibliothèque Polonaise de Paris (France)"
+ },
+ {
+    "type": "FESTIVAL",
+    "title": "Les Pianos Folies Du Touquet-Paris-Plage",
+    "date": "2023-05-30T11:00:00", 
+    "location": "Le Touquet-Paris-Plage (Pas-de-Calais, France)"
+ },
+ {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2023-10-22T17:00:00", 
+    "location": "Salle des Fêtes, Verneuil d'Avre et d'Iton (Eure, France)"
   },
   {
     "type": "CONCERT",
