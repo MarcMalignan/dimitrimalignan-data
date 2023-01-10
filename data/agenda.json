@@ -28,14 +28,14 @@
   },
   {
     "type": "FESTIVAL",
-    "title": "Trasimeno Music Festival",
+    "title": "Trasimeno Music Festival - Recital",
     "date": "2022-07-04T15:00:00",
     "location": "Chiesa di San Francesco, Trevi (Italy)",
     "link": "https://trasimenomusicfestival.com/event/young-talents-2/"
   },
   {
     "type": "FESTIVAL",
-    "title": "Musica d'Estate",
+    "title": "Musica d'Estate - Recital",
     "date": "2022-07-28T16:00:00",
     "location": "Chiesa di Sant' Ippolito, Bardonecchia (Italy)",
     "link": "https://accademiadimusica.it/en/evento/musica-destate-recital-di-pianoforte-46/"
@@ -47,8 +47,8 @@
     "location": "Maison du Portugal - Cité Internationale Universitaire de Paris (France)"
   },
   {
-    "type": "RECITAL",
-    "title": "Festival Terraqué",
+    "type": "FESTIVAL",
+    "title": "Festival Terraqué - Recital",
     "date": "2022-09-13T22:00:00",
     "location": "Église Saint-Cornély, Carnac (Morbihan, France)",
     "link": "http://festivalterraque.com/programme/dyptique-de-lombre/"
@@ -61,7 +61,7 @@
     "link": "https://www.pianopassionparis.net/event-details/dimitri-malignan-2"
   },
   {
-    "type": "CONCERT",
+    "type": "FESTIVAL",
     "title": "Festival de Muze van Zuid - Bosmans & Beyond concert with Elizaveta Agrafenina (soprano)",
     "date": "2022-09-17T11:00:00",
     "location": "Buitenpodium Obrechtkerk, Amsterdam (the Netherlands)",
@@ -96,8 +96,8 @@
     "link": "https://www.ijzerstaven.nl/event-details/liederen-van-henriette-bosmans-met-sopraan-elizaveta-agriffenina"
   },
   {
-    "type": "RECITAL",
-    "title": "Festival International Albert Roussel",
+    "type": "FESTIVAL",
+    "title": "Festival International Albert Roussel - Recital",
     "date": "2022-11-13T17:30:00",
     "location": "Eglise Saint-Erasme, Sercus (Nord, France)",
     "link": "http://ciar.e-monsite.com/pages/festival/festival-2022/"
@@ -130,13 +130,13 @@
   },
   {
     "type": "FESTIVAL",
-    "title": "Festival Les ClisSonantes - Mozart Concerto K. 467 with Les Cordes Sensibles Chamber Orchestra",
+    "title": "Les ClisSonantes - Mozart Concerto K. 467 with Les Cordes Sensibles Chamber Orchestra",
     "date": "2023-10-06",
     "location": "Clisson (Loire-Atlantique, France)"
   },
   {
     "type": "FESTIVAL",
-    "title": "Festival Les ClisSonantes - Recital",
+    "title": "Les ClisSonantes - Recital",
     "date": "2023-10-07",
     "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)"
  },
