@@ -208,6 +208,18 @@
     "title": "Les Pianos Folies Du Touquet-Paris-Plage",
     "date": "2023-05-30T11:00:00", 
     "location": "Le Touquet-Paris-Plage (Pas-de-Calais, France)"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival Les ClisSonantes - Mozart Concerto K. 467 with Les Cordes Sensibles Chamber Orchestra",
+    "date": "2023-10-06",
+    "location": "Clisson (Loire-Atlantique, France)"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival Les ClisSonantes - Recital",
+    "date": "2023-10-07",
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)"
  },
  {
     "type": "RECITAL",
