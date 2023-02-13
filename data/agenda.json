@@ -120,7 +120,8 @@
     "type": "CONCERT",
     "title": "Missing Voices concert with Elizaveta Agrafenina (soprano)",
     "date": "2023-02-17T19:00:00", 
-    "location": "Bibliothèque Polonaise de Paris (France)"
+    "location": "Bibliothèque Polonaise de Paris (France)",
+    "link": "http://www.bibliotheque-polonaise-paris-shlp.fr/"
  },
  {
     "type": "FESTIVAL",
@@ -133,13 +134,15 @@
     "type": "FESTIVAL",
     "title": "Les ClisSonnantes - Mozart Concerto K. 467 with Les Cordes Sensibles Chamber Orchestra",
     "date": "2023-10-06T20:30:00",
-    "location": "L'Arlekino, Clisson (Loire-Atlantique, France)"
+    "location": "L'Arlekino, Clisson (Loire-Atlantique, France)",
+    "link": "https://lesclissonnantes.fr/programmation-2023/"
   },
   {
     "type": "FESTIVAL",
     "title": "Les ClisSonnantes - Recital",
     "date": "2023-10-07T18:15:00",
-    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)"
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)",
+    "link": "https://lesclissonnantes.fr/programmation-2023/"
  },
  {
     "type": "RECITAL",
@@ -151,6 +154,7 @@
     "type": "CONCERT",
     "title": "Missing Voices concert with Natalia Szmydt (violin) and Mikko Pablo (cello)",
     "date": "2023-11-24",
-    "location": "De Leidse Salon, Leiden (the Netherlands)"
+    "location": "De Leidse Salon, Leiden (the Netherlands)",
+    "link": "https://www.leidsesalon.nl/agenda/hongaarse-vrienden-in-nederland"
   }
 ]
