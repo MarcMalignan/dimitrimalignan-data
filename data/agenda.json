@@ -121,7 +121,13 @@
     "title": "Missing Voices concert with Elizaveta Agrafenina (soprano)",
     "date": "2023-02-17T19:00:00", 
     "location": "Bibliothèque Polonaise de Paris (France)",
-    "link": "http://www.bibliotheque-polonaise-paris-shlp.fr/"
+    "link": "http://www.bibliotheque-polonaise-paris-shlp.fr/index.php?id_page=21500"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Recital",
+    "date": "2023-03-18", 
+    "location": "Casa Artelor Dinu Lipatti, Bucharest (Romania)"
  },
  {
     "type": "FESTIVAL",
