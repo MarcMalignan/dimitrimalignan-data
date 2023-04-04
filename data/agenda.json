@@ -138,6 +138,12 @@
     "link": "https://my.weezevent.com/miroir-des-sens-recital-elizaveta-agrafenina-dimitri-malignan"
  },
  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert - Leo Smit anniversary",
+    "date": "2023-04-30", 
+    "location": "Private house, Amsterdam (the Netherlands)"
+ },
+ {
     "type": "FESTIVAL",
     "title": "Les Pianos Folies Du Touquet-Paris-Plage - Recital",
     "date": "2023-05-30T10:30:00", 
