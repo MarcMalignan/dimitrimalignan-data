@@ -139,9 +139,10 @@
  },
  {
     "type": "CONCERT",
-    "title": "Missing Voices concert - Leo Smit anniversary",
-    "date": "2023-04-30", 
-    "location": "Private house, Amsterdam (the Netherlands)"
+    "title": "Missing Voices concert - Leo Smit commemoration",
+    "date": "2023-04-30T14:00:00", 
+    "location": "Muziekkamer aan de Amstel, Amsterdam (the Netherlands)",
+    "link": "https://leosmitfoundation.org/new-events/herdenkingsconcert-johanna-bordewijk-roepman-6ezzn-8ry9l-6jnr7"
  },
  {
     "type": "FESTIVAL",
@@ -160,7 +161,7 @@
   {
     "type": "FESTIVAL",
     "title": "Les ClisSonnantes - Recital",
-    "date": "2023-10-07T18:15:00",
+    "date": "2023-10-07T14:15:00",
     "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)",
     "link": "https://lesclissonnantes.fr/programmation-2023/"
  },
