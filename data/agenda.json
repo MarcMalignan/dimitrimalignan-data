@@ -184,5 +184,11 @@
     "date": "2023-11-24",
     "location": "De Leidse Salon, Leiden (the Netherlands)",
     "link": "https://www.leidsesalon.nl/agenda/hongaarse-vrienden-in-nederland"
+ },
+ {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2024-03-23T15:00:00", 
+    "location": "Médiathèque de Montrouge (Hauts-de-Seine, France)"
   }
 ]
