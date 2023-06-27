@@ -177,6 +177,12 @@
     "title": "Recital",
     "date": "2023-10-22T17:00:00", 
     "location": "Salle des Fêtes, Verneuil d'Avre et d'Iton (Eure, France)"
+ },
+ {
+    "type": "RECITAL",
+    "title": "Recital privé",
+    "date": "2023-11-23T20:00:00", 
+    "location": "Opéra de Reims (Marne, France)"
   },
   {
     "type": "CONCERT",
