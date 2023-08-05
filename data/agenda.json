@@ -186,10 +186,23 @@
   },
   {
     "type": "CONCERT",
+    "title": "Leo Smit Stichting - Missing Voices concert with Sarah Bayens (violin) and Mikko Pablo (cello)",
+    "date": "2023-11-24T20:15:00",
+    "location": "Muziekkamer aan de Amstel, Amsterdam (the Netherlands)"
+  },
+  {
+    "type": "CONCERT",
     "title": "Missing Voices concert with Sarah Bayens (violin) and Mikko Pablo (cello)",
     "date": "2023-11-24T20:15:00",
     "location": "De Leidse Salon, Leiden (the Netherlands)",
     "link": "https://www.leidsesalon.nl/agenda/hongaarse-vrienden-in-nederland"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Kamermuziek 's-Hertogenbosch - Missing Voices concert with Sarah Bayens (violin) and Mikko Pablo (cello)",
+    "date": "2023-11-25T12:30:00",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)",
+    "link": "https://www.kamermuziekshertogenbosch.nl/index.php/202311-november"
  },
  {
     "type": "RECITAL",
