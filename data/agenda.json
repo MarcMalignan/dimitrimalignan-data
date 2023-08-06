@@ -160,6 +160,27 @@
   },
   {
     "type": "FESTIVAL",
+    "title": "Festival Terraqué - Ravel Concerto en Sol with Secession Orchestra and Clément Mao-Takacs",
+    "date": "2023-09-01T19:00:00",
+    "location": "Eglise Saint-Cornély, Carnac (Morbihan, France)",
+    "link": "http://festivalterraque.com/programme/concert-laube-est-deja-grise/"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival Terraqué - Récital ",
+    "date": "2023-09-02T17:00:00",
+    "location": "Espace Culturel Terraqué, Carnac (Morbihan, France)",
+    "link": "http://festivalterraque.com/programme/recital-feuillets-dhypnos/"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival Terraqué - Ravel Concerto en Sol with Secession Orchestra and Clément Mao-Takacs",
+    "date": "2023-09-03T21:00:00",
+    "location": "Eglise Saint-Cornély, Carnac (Morbihan, France)",
+    "link": "http://festivalterraque.com/programme/concert-des-bleus-a-lame/"
+  },
+  {
+    "type": "FESTIVAL",
     "title": "Les ClisSonnantes - Mozart Concerto K. 467 with Les Cordes Sensibles Chamber Orchestra",
     "date": "2023-10-06T20:30:00",
     "location": "L'Arlekino, Clisson (Loire-Atlantique, France)",
