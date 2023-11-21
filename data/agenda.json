@@ -235,6 +235,13 @@
   },
   {
     "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano) and Sarah Bayens (violin)",
+    "date": "2023-11-29",
+    "location": "Pianos Maene, Brussels (Belgium)",
+    "link": "https://my.weezevent.com/the-artists-secret-concert-sbayens-e-agrafenina-d-malignan"
+  },
+  {
+    "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
     "date": "2024-02-18",
     "location": "Huis de Pinto, Amsterdam (the Netherlands)"
