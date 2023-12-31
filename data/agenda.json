@@ -1,121 +1,11 @@
 [
-  {
-    "type": "CONCERT",
-    "title": "Mozart K. 466 with Orchestra Simfonica George Enescu and Yoav Talmi",
-    "date": "2022-01-27T19:00:00",
-    "location": "Ateneul Roman, Bucharest (Romania)",
-    "link": "https://ove.ro/sala-mare-27-ianuarie-2022"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Mozart K. 466 with Orchestra Simfonica George Enescu and Yoav Talmi",
-    "date": "2022-01-28T19:00:00",
-    "location": "Ateneul Roman, Bucharest (Romania)",
-    "link": "https://ove.ro/sala-mare-28-ianuarie-2022/locuri?embed=0"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Bosmans & Beyond concert with Natalia Szmydt (violin)",
-    "date": "2022-03-19T20:00:00",
-    "location": "Witte Kerkje, Lunteren (the Netherlands)"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Bosmans & Beyond concert with Natalia Szmydt (violin)",
-    "date": "2022-03-17T20:00:00",
-    "location": "Oosterkerk, Amsterdam (the Netherlands)",
-    "link": "https://www.oosterkerk-amsterdam.nl/event/afscheidsconcerten-bosmans-beyond/"
-  },
-  {
-    "type": "FESTIVAL",
-    "title": "Trasimeno Music Festival - Recital",
-    "date": "2022-07-04T15:00:00",
-    "location": "Chiesa di San Francesco, Trevi (Italy)",
-    "link": "https://trasimenomusicfestival.com/event/young-talents-2/"
-  },
-  {
-    "type": "FESTIVAL",
-    "title": "Musica d'Estate - Recital",
-    "date": "2022-07-28T16:00:00",
-    "location": "Chiesa di Sant' Ippolito, Bardonecchia (Italy)",
-    "link": "https://accademiadimusica.it/en/evento/musica-destate-recital-di-pianoforte-46/"
-  },
-  {
-    "type": "CONCERT",
-    "title": "La Diaspora Juive Portugaise - Chemins Musicaux with Eva Viegas (piano 4 hands)",
-    "date": "2022-09-10T18:00:00", 
-    "location": "Maison du Portugal - Cité Internationale Universitaire de Paris (France)"
-  },
-  {
-    "type": "FESTIVAL",
-    "title": "Festival Terraqué - Recital",
-    "date": "2022-09-13T22:00:00",
-    "location": "Église Saint-Cornély, Carnac (Morbihan, France)",
-    "link": "http://festivalterraque.com/programme/dyptique-de-lombre/"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Piano Passion",
-    "date": "2022-09-15T20:00:00", 
-    "location": "Église Saint-Julien-le-Pauvre, Paris (France)",
-    "link": "https://www.pianopassionparis.net/event-details/dimitri-malignan-2"
-  },
-  {
-    "type": "FESTIVAL",
-    "title": "Festival de Muze van Zuid - Bosmans & Beyond concert with Elizaveta Agrafenina (soprano)",
-    "date": "2022-09-17T11:00:00",
-    "location": "Buitenpodium Obrechtkerk, Amsterdam (the Netherlands)",
-    "link": "https://www.muzevanzuid.nl/programma"
-  },
-  {
-    "type": "CONCERT",
-    "title": "La Diaspora Juive Portugaise - Chemins Musicaux with Eva Viegas (piano 4 hands)",
-    "date": "2022-09-27T20:00:00", 
-    "location": "Galerie Hus, Paris (France)",
-    "link": "https://galeriehus.com/Concerts"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Festival Les ClisSonantes",
-    "date": "2022-10-09T14:30:00",
-    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)",
-    "link": "https://www.lavoiedeschoeurs.fr/les-clissonnantes-2022/"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Kamermuziek 's-Hertogenbosch - concert with Eva Viegas (piano 4 hands)",
-    "date": "2022-11-17T12:30:00",
-    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)",
-    "link": "https://www.kamermuziekshertogenbosch.nl/index.php/concert-agenda"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Bosmans & Beyond concert with Elizaveta Agrafenina (soprano), Sarah Bayens (violin) and Mikko Pablo (cello)",
-    "date": "2022-10-15T20:30:00",
-    "location": "Salon De Ijzerstaven, Amsterdam (the Netherlands)",
-    "link": "https://www.ijzerstaven.nl/event-details/liederen-van-henriette-bosmans-met-sopraan-elizaveta-agriffenina"
-  },
-  {
-    "type": "FESTIVAL",
-    "title": "Festival International Albert Roussel - Recital",
-    "date": "2022-11-13T17:30:00",
-    "location": "Eglise Saint-Erasme, Sercus (Nord, France)",
-    "link": "http://ciar.e-monsite.com/pages/festival/festival-2022/"
-  },
-  {
-    "type": "CONCERT",
-    "title": "Lecture-Concert - Late Beethoven",
-    "date": "2022-12-05T19:00:00",
-    "location": "Sala Casella - Accademia Filarmonica Romana, Rome (Italy)",
-    "link": "https://www.filarmonicaromana.org/"
-  },
-  {
+  { 
     "type": "RECITAL",
     "title": "Les grands récitals de Piano de Copernic",
     "date": "2023-02-12T17:00:00", 
     "location": "Synagogue Copernic, Paris (France)",
     "link": "https://my.weezevent.com/malignan"
- },
+  },
   {
     "type": "CONCERT",
     "title": "Missing Voices concert with Elizaveta Agrafenina (soprano)",
@@ -257,6 +147,6 @@
     "type": "RECITAL",
     "title": "Amici della Musica di Firenze",
     "date": "2024-09-19",
-    "location": "Pontededra (Italy)"
+    "location": "Pontedera (Italy)"
   }
 ]
