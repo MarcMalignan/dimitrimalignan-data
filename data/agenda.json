@@ -144,9 +144,22 @@
     "link": "https://www.ville-montrouge.fr/uploads/Epublication/b0/145_203_HORS-SERIE-INTERIEUR-205x275mm-OK_031023.pdf" 
   },
   {
+    "type": "CONCERT",
+    "title": "Chamber Music Concert in Memory of Alfonso Ghedin, with Sonig Tchakerian (violin), Lorenzo Meraviglia (viola), Fancesco Angelico (cello) and Franco Petracchi (double bass)",
+    "date": "2024-04-07T18:00:00",
+    "location": "Auditorium Parco della Musica Ennio Morricone - Sala Petrassi, Rome (Italy)",
+    "link": "https://santacecilia.it/concerto/maratona-di-musica-da-camera/?replica=1110"
+  },
+  {
     "type": "RECITAL",
     "title": "Amici della Musica di Firenze",
     "date": "2024-09-19",
     "location": "Pontedera (Italy)"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Les ClisSonnantes - Recital",
+    "date": "2024-10-05T18:00:00",
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)"
   }
 ]
