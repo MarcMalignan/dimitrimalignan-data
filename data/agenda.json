@@ -151,6 +151,18 @@
     "link": "https://santacecilia.it/concerto/maratona-di-musica-da-camera/?replica=1110"
   },
   {
+    "type": "CONCERT",
+    "title": "Missing Voices Concert with Lily Arbisser (soprano)",
+    "date": "2024-04-21T14:00:00",
+    "location": "Temple Beth Rishon, Wyckoff (New Jersey, United States)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices Concert with Lily Arbisser (soprano)",
+    "date": "2024-05-05T14:00:00",
+    "location": "Adas Israel Congregation, Washington (District of Columbia, United States)"
+  },
+  {
     "type": "RECITAL",
     "title": "Amici della Musica di Firenze - Solo recital",
     "date": "2024-09-19",
