@@ -143,6 +143,12 @@
     "date": "2024-03-23T15:00:00", 
     "location": "Médiathèque de Montrouge (Hauts-de-Seine, France)",
     "link": "https://mediatheque.ville-montrouge.fr/cms/articleview/id_module/7/id/1490?id_profil=1" 
+ },
+ {
+    "type": "CONCERT",
+    "title": "Concert in support of Ukraine with Matthieu Walendzik (baritone) and Nicolas Horvath (piano four-hands)",
+    "date": "2024-03-27T19:30:00", 
+    "location": "Centre Culturel de l'Ambassade d'Ukraine en France, Paris (France)"
   },
   {
     "type": "CONCERT",
