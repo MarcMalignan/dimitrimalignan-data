@@ -160,8 +160,9 @@
   {
     "type": "CONCERT",
     "title": "Missing Voices Concert with Lily Arbisser (soprano)",
-    "date": "2024-04-21T14:00:00",
-    "location": "Temple Beth Rishon, Wyckoff (New Jersey, United States)"
+    "date": "2024-04-21T12:00:00",
+    "location": "Temple Beth Rishon, Wyckoff (New Jersey, United States)",
+    "link": "https://www.bethrishon.org/post/missing-voices-music-by-jewish-composers-of-the-holocaust-sun-april-21-12pm"
   },
   {
     "type": "CONCERT",
@@ -174,6 +175,13 @@
     "title": "Amici della Musica di Firenze - Solo recital",
     "date": "2024-09-19",
     "location": "Pontedera (Italy)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Steinway & Sons - Solo recital",
+    "date": "2024-05-01T15:00:00",
+    "location": "Steinway Gallery Piano Gallery, Clearwater (Florida, United States)",
+    "link": "https://www.facebook.com/events/3365095700457664/"
   },
   {
     "type": "FESTIVAL",
