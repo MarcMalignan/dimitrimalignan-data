@@ -198,6 +198,24 @@
     "link": "https://buytickets.at/pupo/1204949"
   },
   {
+    "type": "CONCERT",
+    "title": "Elegies and Echoes CD presentation concert with Elizaveta Agrafenina (soprano)",
+    "date": "2024-06-03T19:00:00", 
+    "location": "Centre Dimitri Chostakovitch, Paris (France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2024-06-06", 
+    "location": "Great Hall of the State Conservatory of Uzbekistan, Tashkent (Uzbekistan)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2024-06-08", 
+    "location": "Music School n°3, Samarkand (Uzbekistan)"
+  },
+  {
     "type": "RECITAL",
     "title": "Concert Promenades - CMIM / JM Canada",
     "date": "2024-05-14T19:00:00",
