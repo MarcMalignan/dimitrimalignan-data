@@ -206,13 +206,14 @@
   {
     "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
-    "date": "2024-06-06", 
-    "location": "Great Hall of the State Conservatory of Uzbekistan, Tashkent (Uzbekistan)"
+    "date": "2024-06-06T19:00:00", 
+    "location": "Great Hall of the State Conservatory, Tashkent (Uzbekistan)",
+    "link": "https://iticket.uz/events/concerts/elizaveta-agrafenina-soprano-dimitri-malignan-piano/30916"
   },
   {
     "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
-    "date": "2024-06-08", 
+    "date": "2024-06-08T17:00:00", 
     "location": "Music School n°3, Samarkand (Uzbekistan)"
   },
   {
