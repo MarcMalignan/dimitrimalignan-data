@@ -230,5 +230,17 @@
     "date": "2024-10-05T18:15:00",
     "location": "L'Arlekino, Clisson (Loire-Atlantique, France)",
     "link": "https://lesclissonnantes.fr/programmation/"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Recital privé",
+    "date": "2024-10-12T18:30:00",
+    "location": "Salon de Musique, Courbevoie (Hauts-de-Seine, France)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2024-11-07T20:00:00",
+    "location": "Maison des Etudiants Canadiens - Salon Wilson, Paris (France)"
   }
 ]
