@@ -226,6 +226,20 @@
   },
   {
     "type": "FESTIVAL",
+    "title": "Festival Terraqué - Récital ",
+    "date": "2024-09-11T21:00:00",
+    "location": "Eglise Saint-Cornély, Carnac (Morbihan, France)",
+    "link": "https://festivalterraque.com/programme/concert-le-ciel-brule/"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival Terraqué - Récital ",
+    "date": "2024-09-12T21:00:00",
+    "location": "Casino Circus, Carnac (Morbihan, France)",
+    "link": "https://festivalterraque.com/programme/concert-quodlibet/"
+  },
+  {
+    "type": "FESTIVAL",
     "title": "Les ClisSonnantes - Solo recital",
     "date": "2024-10-05T18:15:00",
     "location": "L'Arlekino, Clisson (Loire-Atlantique, France)",
