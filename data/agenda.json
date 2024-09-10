@@ -252,9 +252,21 @@
     "location": "Salon de Musique, Courbevoie (Hauts-de-Seine, France)"
   },
   {
+    "type": "CONCERT",
+    "title": "Missing Voices Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2024-11-03T14:00:00",
+    "location": "Muziekkamer aan de Amstel, Amsterdam (the Netherlands)"
+  },
+  {
     "type": "RECITAL",
     "title": "Recital",
     "date": "2024-11-07T20:00:00",
     "location": "Maison des Etudiants Canadiens - Salon Wilson, Paris (France)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2025-10-11T18:00:00",
+    "location": "Eglise Saint-Gilles de Fougy, Gouffern-en-Auge (Orne, France)"
   }
 ]
