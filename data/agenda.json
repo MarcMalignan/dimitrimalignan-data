@@ -276,5 +276,17 @@
     "title": "Recital",
     "date": "2025-10-11T18:00:00",
     "location": "Eglise Saint-Gilles de Fougy, Gouffern-en-Auge (Orne, France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert with Sarah Bayens (violin)",
+    "date": "2025-01-23",
+    "location": "Goethe Institut, Paris (France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert with Sarah Bayens (violin)",
+    "date": "2025-01-26",
+    "location": "Eglise Saint-Pierre-le-Vieux - NooToos (Bas-Rhin, France)"
   }
 ]
