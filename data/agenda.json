@@ -273,6 +273,12 @@
   },
   {
     "type": "RECITAL",
+    "title": "Private recital",
+    "date": "2024-12-14",
+    "location": "Bucharest (Romania)"
+  },
+  {
+    "type": "RECITAL",
     "title": "Recital",
     "date": "2025-10-11T18:00:00",
     "location": "Eglise Saint-Gilles de Fougy, Gouffern-en-Auge (Orne, France)"
