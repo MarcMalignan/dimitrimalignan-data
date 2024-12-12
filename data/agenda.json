@@ -286,13 +286,19 @@
   {
     "type": "CONCERT",
     "title": "Missing Voices concert with Sarah Bayens (violin)",
-    "date": "2025-01-23",
+    "date": "2025-01-23T20:00:00",
     "location": "Goethe Institut, Paris (France)"
   },
   {
     "type": "CONCERT",
     "title": "Missing Voices concert with Sarah Bayens (violin)",
-    "date": "2025-01-26",
+    "date": "2025-01-26T17:00:00",
     "location": "Eglise Saint-Pierre-le-Vieux - NooToos, Strasbourg (Bas-Rhin, France)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Missing Voices recital",
+    "date": "2025-01-21T17:00:00",
+    "location": "Museo degli Strumenti Musicali dell'Accademia Nazionale di Santa Cecilia - MUSA (Rome, Italy)"
   }
 ]
