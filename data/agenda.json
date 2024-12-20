@@ -285,16 +285,27 @@
   },
   {
     "type": "CONCERT",
-    "title": "Missing Voices concert with Sarah Bayens (violin)",
+    "title": "Missing Voices / Forum Voix Etouffées concert with Sarah Bayens (violin)",
     "date": "2025-01-23T20:00:00",
     "location": "Goethe Institut, Paris (France)",
     "link": "https://www.goethe.de/ins/fr/fr/ver.cfm?event_id=26296957"
   },
   {
     "type": "CONCERT",
-    "title": "Missing Voices concert with Sarah Bayens (violin)",
+    "title": "Missing Voices concert/conference",
+    "date": "2025-01-24T20:00:00",
+    "location": "Espace Le Moulin, Paris (France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices / Forum Voix Etouffées concert with Sarah Bayens (violin)",
     "date": "2025-01-26T17:00:00",
     "location": "Eglise Saint-Pierre-le-Vieux - NooToos, Strasbourg (Bas-Rhin, France)"
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert / Holocaust Remembrance ceremony with Sam Lucas (cello)",
+    "date": "2025-01-26T17:00:00",
+    "location": "European Parliament, Brussels (Belgium)"
   },
   {
     "type": "RECITAL",
