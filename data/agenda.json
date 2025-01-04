@@ -305,13 +305,14 @@
   {
     "type": "CONCERT",
     "title": "Missing Voices concert / Holocaust Remembrance ceremony with Sam Lucas (cello)",
-    "date": "2025-01-31",
+    "date": "2025-01-29",
     "location": "European Parliament, Brussels (Belgium)"
   },
   {
     "type": "RECITAL",
     "title": "Missing Voices recital",
-    "date": "2025-01-21T17:00:00",
-    "location": "Museo degli Strumenti Musicali dell'Accademia Nazionale di Santa Cecilia - MUSA (Rome, Italy)"
+    "date": "2025-01-21T16:30:00",
+    "location": "Museo degli Strumenti Musicali dell'Accademia Nazionale di Santa Cecilia - MUSA (Rome, Italy)",
+    "link": "https://santacecilia.it/concerto/martedimusa-al-piano-i/?replica=1375"
   }
 ]
