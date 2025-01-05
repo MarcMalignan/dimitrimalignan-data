@@ -315,5 +315,11 @@
     "date": "2025-01-21T16:30:00",
     "location": "Museo degli Strumenti Musicali dell'Accademia Nazionale di Santa Cecilia - MUSA (Rome, Italy)",
     "link": "https://santacecilia.it/concerto/martedimusa-al-piano-i/?replica=1375"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Steinway & Sons - recital",
+    "date": "2025-03-01",
+    "location": "Steinway Piano Gallery Tampa Bay, Clearwater (Florida, United States)"
   }
 ]
