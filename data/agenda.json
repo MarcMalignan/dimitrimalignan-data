@@ -324,7 +324,7 @@
   },
   {
     "type": "RECITAL",
-    "title": "Private recital",
+    "title": "Recital",
     "date": "2025-02-06T20:00:00",
     "location": "Lycée d'Etat Jean Zay, Paris (France)"
   },
@@ -333,5 +333,11 @@
     "title": "Steinway & Sons - recital",
     "date": "2025-03-01",
     "location": "Steinway Piano Gallery Tampa Bay, Clearwater (Florida, United States)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Lily Arbisser (soprano)",
+    "date": "2025-03-09",
+    "location": "German American Heritage Center & Museum, Davenport (Iowa, United States)"
   }
 ]
