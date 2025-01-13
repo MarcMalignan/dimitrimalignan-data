@@ -317,10 +317,17 @@
     "link": "https://santacecilia.it/concerto/martedimusa-al-piano-i/?replica=1375"
   },
   {
+    "type": "CONCERT",
+    "title": "Missing Voices  concert with Sarah Bayens (violin)",
+    "date": "2025-01-27T19:00:00",
+    "location": "Institut culturel roumain - Hôtel de Béhague, Paris (France)",
+    "link": "https://www.eventbrite.fr/e/missing-voices-concert-tickets-1147183951079?aff=oddtdtcreator"
+  },
+  {
     "type": "RECITAL",
     "title": "Private recital",
     "date": "2025-02-02T16:30:00",
-    "location": "Brussels (Belgium)"
+    "location": "Fondation Blan, Brussels (Belgium)"
   },
   {
     "type": "RECITAL",
