@@ -343,10 +343,16 @@
   },
   {
     "type": "CONCERT",
-    "title": "Concert with Lily Arbisser (soprano)",
-    "date": "2025-03-09",
+    "title": "Friendship: Connection in New Lands - Concert with Lily Arbisser (soprano)",
+    "date": "2025-03-09T13:30:00",
     "location": "German American Heritage Center & Museum, Davenport (Iowa, United States)",
     "link": "https://gahc.org/events/kaffee-und-kuchen-22/"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Casual Classics - Concert with Lily Arbisser (soprano)",
+    "date": "2025-03-10T19:00:00",
+    "location": "Galvin Fine Arts Center at St Ambrose University, Davenport (Iowa, United States)"
   },
   {
     "type": "RECITAL",
