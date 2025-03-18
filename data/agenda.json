@@ -371,19 +371,22 @@
     "type": "RECITAL",
     "title": "Conoscere la musica",
     "date": "2025-04-09T20:30:00",
-    "location": "Sala Marco Biagi, Bologna (Italy)"
+    "location": "Sala Marco Biagi, Bologna (Italy)",
+    "link": "https://conoscerelamusica.it/concerto-dimitri-malignan-2025.html"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Incontri Musicali",
+    "date": "2025-05-24T17:00:00",
+    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)",
+    "link": "https://www.lamortella.org/en/music/events-calendar/event/1191-dimitri-malignan"
   },
   {
     "type": "RECITAL",
     "title": "Recital",
-    "date": "2025-05-24",
-    "location": "Fondazione William Walton, Forio d'Ischia (Italy)"
-  },
-  {
-    "type": "RECITAL",
-    "title": "Recital",
-    "date": "2025-05-25",
-    "location": "Fondazione William Walton, Forio d'Ischia (Italy)"
+    "date": "2025-05-25T17:00:00",
+    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)",
+    "link": "https://www.lamortella.org/en/music/events-calendar/event/1192-dimitri-malignan"
   },
   {
     "type": "RECITAL",
