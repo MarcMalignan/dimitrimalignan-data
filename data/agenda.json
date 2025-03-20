@@ -389,6 +389,12 @@
     "link": "https://www.lamortella.org/en/music/events-calendar/event/1192-dimitri-malignan"
   },
   {
+    "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2025-10-28", 
+    "location": "Bangalore International Center (India)"
+  },
+  {
     "type": "RECITAL",
     "title": "Recital",
     "date": "2025-11-02",
