@@ -419,5 +419,17 @@
     "title": "Recital",
     "date": "2025-11-16T19:00:00",
     "location": "Raffles Hotel Le Royal, Phnom Penh (Cambodia)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert with Sarah Bayens (violin)",
+    "date": "2025-10-04",
+    "location": "Exilarte Center, Vienna (Austria)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Ravel Concerto en Sol with Secession Orchestra and Clément Mao-Takacs",
+    "date": "2025-11-21T19:30:00",
+    "location": "La Comète - Scène nationale, Châlons-en-Champagne (Marne)"
   }
 ]
