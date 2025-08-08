@@ -459,5 +459,26 @@
     "date": "2025-11-21T19:30:00",
     "location": "La Comète - Scène nationale, Châlons-en-Champagne (Marne, France)",
     "link": "https://www.la-comete.fr/programmation/prenom-carmen-raveliana"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Vrienden Kamermuziek 's-Hertogenbosch - concert with Michelle Lynne (piano four-hands)",
+    "date": "2026-01-15T12:30:00",
+    "location": "Podium Azijnfabriek, 's-Hertogenbosch (the Netherlands)",
+    "link": "https://www.kamermuziekdenbosch.nl/blog/2024/05/04/do-15-januari-nog-niet-bekend/"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Opus 16 Concerten - concert with Michelle Lynne (piano four-hands)",
+    "date": "2026-01-24T19:30:00",
+    "location": "Kapel Opveld, Maastricht (the Netherlands)",
+    "link": "https://www.opus16concerten.nl/concerten/piano-quatre-mains-maastricht-xx6ap"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Opus 16 Concerten - concert with Michelle Lynne (piano four-hands)",
+    "date": "2026-01-25T11:00:00",
+    "location": "Cultuur Podium De Bombardon, Heythuysen (the Netherlands)",
+    "link": "https://www.opus16concerten.nl/concerten/piano-quatre-mains-heythuysen"
   }
 ]
