@@ -289,7 +289,15 @@
     "type": "CONCERT",
     "title": "CD Launch - Missing Voices concert with Sarah Bayens (violin) and Elizaveta Agrafenina (soprano)",
     "date": "2025-08-28T14:00:00",
-    "location": "Leo Smit Stichting - Muziekkamer aan de Amstel, Amsterdam (the Netherlands)"
+    "location": "Leo Smit Stichting - Muziekkamer aan de Amstel, Amsterdam (the Netherlands)",
+    "link": "https://leosmitfoundation.org/new-events/cd-presentatie-henritte-bosmans-in-de-muziekkamer"
+  },
+  {
+    "type": "CONCERT",
+    "title": "CD Launch - Missing Voices concert with Sarah Bayens (violin) and Elizaveta Agrafenina (soprano)",
+    "date": "2025-09-25T20:00:00",
+    "location": "Salon de IJzerstaven, Amsterdam (the Netherlands)",
+    "link": "https://www.ijzerstaven.nl/event-details/le-diable-dans-la-nuit"
   },
   {
     "type": "CONCERT",
@@ -319,8 +327,9 @@
   {
     "type": "CONCERT",
     "title": "Missing Voices concert with Sarah Bayens (violin)",
-    "date": "2025-10-04",
-    "location": "Exilarte Center, Vienna (Austria)"
+    "date": "2025-10-04T20:00:00",
+    "location": "Exilarte Center, Vienna (Austria)",
+    "link": "https://exilarte.org/en/lndm2025_en"
   },
   {
     "type": "CONCERT",
