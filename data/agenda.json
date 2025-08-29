@@ -302,6 +302,13 @@
   {
     "type": "CONCERT",
     "title": "CD Launch - Missing Voices concert with Sarah Bayens (violin) and Elizaveta Agrafenina (soprano)",
+    "date": "2025-09-23T19:30:00",
+    "location": "Splendor, Amsterdam (the Netherlands)",
+    "link": "https://splendoramsterdam.com/en/agenda/111565750/la-diable-dans-la-nuit"
+  },
+  {
+    "type": "CONCERT",
+    "title": "CD Launch - Missing Voices concert with Sarah Bayens (violin) and Elizaveta Agrafenina (soprano)",
     "date": "2025-09-25T20:00:00",
     "location": "Salon de IJzerstaven, Amsterdam (the Netherlands)",
     "link": "https://www.ijzerstaven.nl/event-details/le-diable-dans-la-nuit"
@@ -366,5 +373,12 @@
     "date": "2026-01-25T11:00:00",
     "location": "Cultuur Podium De Bombardon, Heythuysen (the Netherlands)",
     "link": "https://www.opus16concerten.nl/concerten/piano-quatre-mains-heythuysen"
+  },
+  {
+    "type": "CONCERT",
+    "title": "CD launch Concert with Sarah Bayens (violin)",
+    "date": "2026-01-29T20:00:00",
+    "location": "Salle Cortot, Paris (France)",
+    "link": "https://sallecortot.com/event/nouveaux-virtuoses-avec-sarah-bayens-et-dimitri-malignan/"
   }
 ]
