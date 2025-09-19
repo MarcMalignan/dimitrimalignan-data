@@ -315,6 +315,13 @@
   },
   {
     "type": "CONCERT",
+    "title": "Missing Voices concert with Elizaveta Agrafenina (soprano)",
+    "date": "2025-09-26T20:00:00",
+    "location": "Splendor, Amsterdam (the Netherlands)",
+    "link": "https://splendoramsterdam.com/en/agenda/111569091/elegies-echoes"
+  },
+  {
+    "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
     "date": "2025-10-28", 
     "location": "Bangalore International Center (India)"
