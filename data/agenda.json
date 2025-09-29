@@ -323,6 +323,12 @@
   {
     "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2025-10-27", 
+    "location": "Alliance Française Delhi (India)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano)",
     "date": "2025-10-28", 
     "location": "Bangalore International Center (India)"
   },
