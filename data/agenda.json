@@ -323,6 +323,12 @@
   {
     "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
+    "date": "2025-10-19T11:00:00", 
+    "location": "Furtados Music - Steinway piano Gallery, New Delhi (India)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Concert with Elizaveta Agrafenina (soprano)",
     "date": "2025-10-27T18:30:00", 
     "location": "Alliance Française Delhi (India)"
   },
