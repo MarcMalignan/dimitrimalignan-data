@@ -337,7 +337,8 @@
     "type": "CONCERT",
     "title": "Concert with Elizaveta Agrafenina (soprano)",
     "date": "2025-10-28T19:00:00", 
-    "location": "Bangalore International Center (India)"
+    "location": "Bangalore International Center (India)",
+    "link": "https://bangaloreinternationalcentre.org/event/european-treasures/"
   },
   {
     "type": "RECITAL",
