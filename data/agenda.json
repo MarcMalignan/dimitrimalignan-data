@@ -367,6 +367,12 @@
     "link": "https://european-music-cultures.org/concert3/"
   },
   {
+    "type": "RECITAL",
+    "title": "Private Recital",
+    "date": "2025-11-22T17:30:00",
+    "location": "Sceaux, Hauts-de-Seine (France)"
+  },
+  {
     "type": "CONCERT",
     "title": "Missing Voices concert with Sarah Bayens (violin)",
     "date": "2025-10-04T20:00:00",
