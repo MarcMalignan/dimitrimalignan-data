@@ -260,6 +260,12 @@
   },
   {
     "type": "CONCERT",
+    "title": "Concert with Michelle Lynne (piano four-hands)",
+    "date": "2026-01-23T20:30:00",
+    "location": "Salon de IJzestaven, Amsterdam (the Netherlands)"
+  },
+  {
+    "type": "CONCERT",
     "title": "Opus 16 Concerten - concert with Michelle Lynne (piano four-hands)",
     "date": "2026-01-24T19:30:00",
     "location": "Kapel Opveld, Maastricht (the Netherlands)",
