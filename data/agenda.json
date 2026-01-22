@@ -289,6 +289,18 @@
   },
   {
     "type": "CONCERT",
+    "title": "Opus 16 Concerts - concert with Michelle Lynne (piano four-hands)",
+    "date": "2026-02-21T20:00:00",
+    "location": "The Scots Kirk, Paris"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Conoscere la musica - Concert with Noemi Gasparini (violin)",
+    "date": "2025-03-11T20:30:00",
+    "location": "Sala Marco Biagi, Bologna (Italy)"
+  },
+  {
+    "type": "CONCERT",
     "title": "Bach Concertos BWV 1054, 1056 & 1058 with Philharmnonie des Deux Mondes and Nicolas Jounis",
     "date": "2026-03-06T20:30:00",
     "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique, France)",
