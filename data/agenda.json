@@ -319,5 +319,18 @@
     "date": "2026-03-08T15:00:00",
     "location": "La Stella Auditorium, Gorges (Loire-Atlantique, France)",
     "link": "https://www.billetweb.fr/clissonnantes-d-couverte-du-festival-2026"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2026-11-15",
+    "location": "Salle des Fêtes, Verneuil d'Avre-et-d'Iton (Eure)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Recital",
+    "date": "2026-11-21T20:00:00",
+    "location": "Paroisse Luthérienne de l'Ascension, Paris",
+    "link": "https://ascension.epudf.org/evenements/cycle-mendelssohn-2026/"
   }
 ]
