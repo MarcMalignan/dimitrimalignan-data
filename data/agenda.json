@@ -321,14 +321,26 @@
     "link": "https://www.billetweb.fr/clissonnantes-d-couverte-du-festival-2026"
   },
   {
+    "type": "FESTIVAL",
+    "title": "Les Clissonnantes - Récital",
+    "date": "2026-10-01T20:30:00",
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique)"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Les Clissonnantes - Récital",
+    "date": "2026-09-29T20:45:00",
+    "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique)"
+  },
+  {
     "type": "RECITAL",
-    "title": "Recital",
+    "title": "Récital",
     "date": "2026-11-15",
     "location": "Salle des Fêtes, Verneuil d'Avre-et-d'Iton (Eure)"
   },
   {
     "type": "RECITAL",
-    "title": "Recital",
+    "title": "Cycle Mendelssohn - Récital",
     "date": "2026-11-21T20:00:00",
     "location": "Paroisse Luthérienne de l'Ascension, Paris",
     "link": "https://ascension.epudf.org/evenements/cycle-mendelssohn-2026/"
