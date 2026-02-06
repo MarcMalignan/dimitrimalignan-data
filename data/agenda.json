@@ -295,6 +295,12 @@
   },
   {
     "type": "CONCERT",
+    "title": "Opus 16 Concerts - concert with Thomaz Tavares Paes (flute)",
+    "date": "2026-06-13T20:00:00",
+    "location": "The Scots Kirk, Paris"
+  },
+  {
+    "type": "CONCERT",
     "title": "Conoscere la musica - Concert with Noemi Gasparini (violin)",
     "date": "2026-03-11T20:30:00",
     "location": "Sala Marco Biagi, Bologna (Italy)"
@@ -319,6 +325,12 @@
     "date": "2026-03-08T15:00:00",
     "location": "La Stella Auditorium, Gorges (Loire-Atlantique, France)",
     "link": "https://www.billetweb.fr/clissonnantes-d-couverte-du-festival-2026"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Cello & Courage - Missing Voices Concert with Katja Zakotnik (cello)",
+    "date": "2026-08-13T19:00:00",
+    "location": "Herrenhof Mussbach, Neustadt an der Weinstrasse (Germany)"
   },
   {
     "type": "FESTIVAL",
