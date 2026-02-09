@@ -291,14 +291,14 @@
     "type": "CONCERT",
     "title": "Opus 16 Concerts - concert with Michelle Lynne (piano four-hands)",
     "date": "2026-02-21T20:00:00",
-    "location": "The Scots Kirk, Paris"
+    "location": "The Scots Kirk, Paris",
+    "link": "https://www.billetweb.fr/concert-de-piano-a-quatre-mains-michelle-lynne-et-dimitri-malignan"
   },
   {
     "type": "CONCERT",
     "title": "Opus 16 Concerts - concert with Thomaz Tavares Paes (flute)",
     "date": "2026-06-13T20:00:00",
-    "location": "The Scots Kirk, Paris",
-    "link": "https://www.billetweb.fr/concert-de-piano-a-quatre-mains-michelle-lynne-et-dimitri-malignan"
+    "location": "The Scots Kirk, Paris"
   },
   {
     "type": "CONCERT",
