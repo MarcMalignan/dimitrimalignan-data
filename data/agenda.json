@@ -207,7 +207,8 @@
     "type": "CONCERT",
     "title": "Opus 16 Concerts - concert with Thomaz Tavares Paes (flute)",
     "date": "2026-06-13T20:00:00",
-    "location": "The Scots Kirk, Paris"
+    "location": "The Scots Kirk, Paris",
+    "link": "https://www.helloasso.com/associations/missing-voices-france/evenements/concert-de-flute-et-piano-avec-thomaz-tavares-paes-et-dimitri-malignan"
   },
   {
     "type": "CONCERT",
@@ -254,6 +255,12 @@
     "title": "Cello & Courage - Missing Voices Concert with Katja Zakotnik (cello)",
     "date": "2026-08-13T19:00:00",
     "location": "Herrenhof Mussbach, Neustadt an der Weinstrasse (Germany)"
+  },
+  {
+    "type": "FESTIVAL",
+    "title": "Festival de musique de chambre de Villers-sur-mer - Concert with Sarah Bayens (violin)",
+    "date": "2026-08-21T18:30:00",
+    "location": "Salle panoramique du Casino, Villers-sur-mer (Calvados)"
   },
   {
     "type": "FESTIVAL",
