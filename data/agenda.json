@@ -266,13 +266,15 @@
     "type": "FESTIVAL",
     "title": "Les Clissonnantes - Récital",
     "date": "2026-10-01T20:30:00",
-    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique)"
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique)",
+    "link": "https://www.billetweb.fr/clissonnantes-2026"
   },
   {
     "type": "FESTIVAL",
     "title": "Les Clissonnantes - Récital",
-    "date": "2026-09-29T20:45:00",
-    "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique)"
+    "date": "2026-09-29T20:30:00",
+    "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique)",
+    "link": "https://www.billetweb.fr/hors-les-murs-clissonnantes-2026"
   },
   {
     "type": "RECITAL",
