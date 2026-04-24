@@ -242,13 +242,23 @@
     "type": "CONCERT",
     "title": "Incontri Musicali - Concert with Sarah Bayens (violin)",
     "date": "2026-05-23T17:00:00",
-    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)"
+    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)",
+    "link": "https://www.lamortella.org/en/music/events-calendar/event/1241-duo-s-bayens-d-malignan"
   },
   {
     "type": "CONCERT",
     "title": "Incontri Musicali - Concert with Sarah Bayens (violin)",
     "date": "2026-05-24T17:00:00",
-    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)"
+    "location": "Giardini La Mortella - Fondazione William Walton, Ischia (Italy)",
+    "link": "https://www.lamortella.org/en/music/events-calendar/event/1242-duo-s-bayens-d-malignan"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices concert - Journée nationale de la Résistance",
+    "date": "2026-05-27T19:00:00",
+    "location": "Mémorial de la Shoah - Auditorium Edmond J. Safra",
+    "link": "https://billetterie.memorialdelashoah.org/fr/evenement/journee-nationale-de-la-resistance-2026"
+    
   },
   {
     "type": "CONCERT",
