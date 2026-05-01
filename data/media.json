@@ -1,6 +1,12 @@
 {
   "videos": [
     {
+      "id": "W9MJ506B5w8",
+      "type": "youtube",
+      "title": "Schumann, Faschingsschwank aus Wien Op. 26 - Intermezzo",
+      "date": "2026-03-13"
+    },
+    {
       "id": "dtl8pkW54ow",
       "type": "youtube",
       "title": "Medtner, Fairy Tale Op. 20/2 in B minor Campanella",
@@ -9,7 +15,7 @@
     {
       "id": "Z6qnxr03AN8",
       "type": "youtube",
-      "title": "Beethoven, Bagatelle op. 126 n° 1, 2 & 3",
+      "title": "Beethoven, Bagatelle Op. 126 n° 1, 2 & 3",
       "date": "2023-07-07"
     },
     {
@@ -45,7 +51,7 @@
     {
       "id": "N-0EZYlyhl4",
       "type": "youtube",
-      "title": "BRAHMS, Intermezzo in e minor, op. 119 n° 2",
+      "title": "BRAHMS, Intermezzo in e minor Op. 119 n° 2",
       "date": "2018-10-26"
     },
     {
