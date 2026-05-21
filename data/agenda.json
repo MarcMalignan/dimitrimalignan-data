@@ -254,10 +254,17 @@
   },
   {
     "type": "CONCERT",
-    "title": "Missing Voices concert - Journée nationale de la Résistance",
+    "title": "Journée nationale de la Résistance - Missing Voices concert",
     "date": "2026-05-27T19:00:00",
     "location": "Mémorial de la Shoah - Auditorium Edmond J. Safra",
     "link": "https://billetterie.memorialdelashoah.org/fr/evenement/journee-nationale-de-la-resistance-2026"
+  },
+  {
+    "type": "CONCERT",
+    "title": "European Parliament Piano Festival - Missing Voices concert with Sam Lucas (cello)",
+    "date": "2026-06-22T13:00:00",
+    "location": "European Parliament (Info Hub), Brussels (Belgium) ",
+    "link": "https://visiting.europarl.europa.eu/el/brussels/info-hub/european-parliament-piano-festival-2026"
     
   },
   {
