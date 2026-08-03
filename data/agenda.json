@@ -256,7 +256,7 @@
     "type": "CONCERT",
     "title": "Journée nationale de la Résistance - Missing Voices concert",
     "date": "2026-05-27T19:00:00",
-    "location": "Mémorial de la Shoah - Auditorium Edmond J. Safra",
+    "location": "Mémorial de la Shoah - Auditorium Edmond J. Safra, Paris (France)",
     "link": "https://billetterie.memorialdelashoah.org/fr/evenement/journee-nationale-de-la-resistance-2026"
   },
   {
@@ -297,7 +297,7 @@
   },
   {
     "type": "RECITAL",
-    "title": "Missing Voices / Opus 16 - Recital",
+    "title": "Missing Voices / Opus 16 - CD launch Recital",
     "date": "2026-09-19T20:00:00",
     "location": "The Scots Kirk, Paris",
     "link": "https://www.helloasso.com/associations/missing-voices-france/evenements/et-in-arcadia-ego-recital-de-piano-dimitri-malignan"
@@ -319,8 +319,21 @@
   {
     "type": "RECITAL",
     "title": "Récital",
-    "date": "2026-11-15",
+    "date": "2026-11-15T16:00:00",
     "location": "Salle des Fêtes, Verneuil d'Avre-et-d'Iton (Eure)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Missing Voices - CD launch recital",
+    "date": "2026-10-08",
+    "location": "Splendor, Amsterdam (the Netherlands)"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Missing Voices concert with Lily Arbisser (soprano)",
+    "date": "2027-03-26T19:30:00",
+    "location": "Maison de la Sirène, Avranches (Manche, France)",
+    "link": "https://maisondelasirene.fr/reserver/55"
   },
   {
     "type": "RECITAL",
