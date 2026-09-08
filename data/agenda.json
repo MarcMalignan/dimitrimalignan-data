@@ -318,18 +318,20 @@
   },
   {
     "type": "RECITAL",
-    "title": "Récital",
+    "title": "Salon Romantique - Recital",
     "date": "2026-11-15T16:00:00",
-    "location": "Salle des Fêtes, Verneuil d'Avre-et-d'Iton (Eure)"
+    "location": "Salle des Fêtes, Verneuil d'Avre-et-d'Iton (Eure, France)",
+    "link": "https://www.normandie-tourisme.fr/agenda/recital-de-piano-salon-romantique/#a-propos"
   },
   {
     "type": "RECITAL",
     "title": "Missing Voices - CD launch recital",
-    "date": "2026-10-05T19:30:00",
-    "location": "Splendor, Amsterdam (the Netherlands)"
+    "date": "2026-10-05T20:00:00",
+    "location": "Splendor, Amsterdam (the Netherlands)",
+    "link": "https://splendoramsterdam.com/en/agenda/111695995/dani%C3%ABl-belinfante-et-in-arcadia-ego"
   },
   {
-    "type": "RECITAL",
+    "type": "CONCERT",
     "title": "Missing Voices concert with Lily Arbisser (soprano)",
     "date": "2027-03-26T19:30:00",
     "location": "Maison de la Sirène, Avranches (Manche, France)",
@@ -337,9 +339,22 @@
   },
   {
     "type": "RECITAL",
-    "title": "Cycle Mendelssohn - Récital",
+    "title": "Cycle Mendelssohn - Recital",
     "date": "2026-11-21T20:00:00",
     "location": "Paroisse Luthérienne de l'Ascension, Paris",
     "link": "https://ascension.epudf.org/evenements/cycle-mendelssohn-2026/"
+  },
+  {
+    "type": "RECITAL",
+    "title": "Private Recital",
+    "date": "2026-11-22T16:00:00",
+    "location": "Chevreuse (Yvelines, France)"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Les Grands Solistes - Christmas Concert with Shams Bouteille (Trumpet) and Maroussia Thauvet (soprano) ",
+    "date": "2026-12-19T18:00:00",
+    "location": "Eglise Saint-Gilles, Etampes (Essonne, France)",
+    "https://les-grands-solistes.fr/2026/09/le-concert-de-lhiver-samedi-19-decembre-a-18h00-a-leglise-saint-gilles-a-etampes/"
   }
 ]
