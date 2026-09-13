@@ -306,14 +306,14 @@
     "type": "FESTIVAL",
     "title": "Les Clissonnantes - Récital",
     "date": "2026-10-01T20:30:00",
-    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique)",
+    "location": "Espace Saint-Jacques, Clisson (Loire-Atlantique, France)",
     "link": "https://www.billetweb.fr/clissonnantes-2026"
   },
   {
     "type": "FESTIVAL",
     "title": "Les Clissonnantes - Récital",
     "date": "2026-09-29T20:30:00",
-    "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique)",
+    "location": "Chapelle de l'Immaculée, Nantes (Loire-Atlantique, France)",
     "link": "https://www.billetweb.fr/hors-les-murs-clissonnantes-2026"
   },
   {
@@ -367,7 +367,7 @@
     "type": "RECITAL",
     "title": "Immersive Prestige Music - Recital Beethoven",
     "date": "2027-01-17T15:00:00",
-    "location": "Chateau de Goulaine, Haute-Goulaine (Loire-Atlantique)",
+    "location": "Chateau de Goulaine, Haute-Goulaine (Loire-Atlantique, France)",
     "link": "https://www.billetweb.fr/les-concerts-prives-au-chateau-chateau-de-goulaine?multi=44754&margin=no_margin&ref=44754&color=E6C300&parent=ipmusic&from_multi=1"
   }
 ]
