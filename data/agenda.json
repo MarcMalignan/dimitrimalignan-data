@@ -353,15 +353,21 @@
   {
     "type": "RECITAL",
     "title": "Missing Voices recital",
-    "date": "2027-02-14",
+    "date": "2027-02-14T15:00:00",
     "location": "Maison d'Izieu (Ain, France)"
   },
   {
     "type": "CONCERT",
-    "title": "Les Grands Solistes - Christmas Concert with Shams Bouteille (Trumpet) and Maroussia Thauvet (soprano)",
+    "title": "Les Grands Solistes - Christmas Concert with Shams Bouteille (trumpet) and Maroussia Thauvet (soprano)",
     "date": "2026-12-19T18:00:00",
     "location": "Eglise Saint-Gilles, Etampes (Essonne, France)",
     "link": "https://les-grands-solistes.fr/2026/09/le-concert-de-lhiver-samedi-19-decembre-a-18h00-a-leglise-saint-gilles-a-etampes/"
+  },
+  {
+    "type": "CONCERT",
+    "title": "Missing Voices / Opus 16 - Concert with Lily Arbisser (soprano)",
+    "date": "2027-04-03T20:00:00",
+    "location": "The Scots Kirk, Paris",
   },
   {
     "type": "RECITAL",
